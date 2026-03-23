@@ -1,0 +1,1215 @@
+{
+  "metadata": {
+    "syncedAt": "2026-03-23T15:48:11.600Z",
+    "figmaFileKey": "",
+    "figmaFileName": "UI Foundations (WIP)",
+    "collection": {
+      "name": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "modes": [
+        {
+          "id": "2:0",
+          "name": "Desktop"
+        },
+        {
+          "id": "2154:0",
+          "name": "Mobile"
+        }
+      ],
+      "defaultModeId": "2:0"
+    },
+    "tokenCount": 70
+  },
+  "tokens": [
+    {
+      "name": "body.global.lg.font-size",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "body",
+      "domain": "global",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 16,
+        "Mobile": 16
+      },
+      "aliasPath": "integer/16",
+      "scopes": [
+        "FONT_SIZE"
+      ],
+      "description": ""
+    },
+    {
+      "name": "body.global.lg.letter-spacing",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "body",
+      "domain": "global",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 0,
+        "Mobile": 0
+      },
+      "aliasPath": "integer/0",
+      "scopes": [
+        "LETTER_SPACING"
+      ],
+      "description": ""
+    },
+    {
+      "name": "body.global.lg.line-height",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "body",
+      "domain": "global",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 28,
+        "Mobile": 28
+      },
+      "aliasPath": "integer/28",
+      "scopes": [
+        "LINE_HEIGHT"
+      ],
+      "description": ""
+    },
+    {
+      "name": "body.global.md.font-size",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "body",
+      "domain": "global",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 14,
+        "Mobile": 14
+      },
+      "aliasPath": "integer/14",
+      "scopes": [
+        "FONT_SIZE"
+      ],
+      "description": ""
+    },
+    {
+      "name": "body.global.md.letter-spacing",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "body",
+      "domain": "global",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 0,
+        "Mobile": 0
+      },
+      "aliasPath": "integer/0",
+      "scopes": [
+        "LETTER_SPACING"
+      ],
+      "description": ""
+    },
+    {
+      "name": "body.global.md.line-height",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "body",
+      "domain": "global",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 24,
+        "Mobile": 24
+      },
+      "aliasPath": "integer/24",
+      "scopes": [
+        "LINE_HEIGHT"
+      ],
+      "description": ""
+    },
+    {
+      "name": "body.global.paragraph-spacing",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "body",
+      "domain": "global",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 16,
+        "Mobile": 16
+      },
+      "aliasPath": "integer/16",
+      "scopes": [
+        "PARAGRAPH_SPACING"
+      ],
+      "description": ""
+    },
+    {
+      "name": "box.action.lg",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "box",
+      "domain": "action",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 48,
+        "Mobile": 48
+      },
+      "aliasPath": "integer/48",
+      "scopes": [
+        "WIDTH_HEIGHT"
+      ],
+      "description": ""
+    },
+    {
+      "name": "box.action.md",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "box",
+      "domain": "action",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 40,
+        "Mobile": 40
+      },
+      "aliasPath": "integer/40",
+      "scopes": [
+        "WIDTH_HEIGHT"
+      ],
+      "description": ""
+    },
+    {
+      "name": "box.action.sm",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "box",
+      "domain": "action",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 32,
+        "Mobile": 32
+      },
+      "aliasPath": "integer/32",
+      "scopes": [
+        "WIDTH_HEIGHT"
+      ],
+      "description": ""
+    },
+    {
+      "name": "box.action.xs",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "box",
+      "domain": "action",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 24,
+        "Mobile": 24
+      },
+      "aliasPath": "integer/24",
+      "scopes": [
+        "WIDTH_HEIGHT"
+      ],
+      "description": ""
+    },
+    {
+      "name": "box.toggle.lg",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "box",
+      "domain": "toggle",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 24,
+        "Mobile": 24
+      },
+      "aliasPath": "integer/24",
+      "scopes": [
+        "WIDTH_HEIGHT"
+      ],
+      "description": ""
+    },
+    {
+      "name": "box.toggle.sm",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "box",
+      "domain": "toggle",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 16,
+        "Mobile": 16
+      },
+      "aliasPath": "integer/16",
+      "scopes": [
+        "WIDTH_HEIGHT"
+      ],
+      "description": ""
+    },
+    {
+      "name": "display.global.lg.font-size",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "display",
+      "domain": "global",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 64,
+        "Mobile": 40
+      },
+      "aliasPath": "integer/64",
+      "scopes": [
+        "FONT_SIZE"
+      ],
+      "description": ""
+    },
+    {
+      "name": "display.global.lg.letter-spacing",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "display",
+      "domain": "global",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": -0.8,
+        "Mobile": -0.8
+      },
+      "aliasPath": "float/neg08",
+      "scopes": [
+        "LETTER_SPACING"
+      ],
+      "description": ""
+    },
+    {
+      "name": "display.global.lg.line-height",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "display",
+      "domain": "global",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 72,
+        "Mobile": 48
+      },
+      "aliasPath": "integer/72",
+      "scopes": [
+        "LINE_HEIGHT"
+      ],
+      "description": ""
+    },
+    {
+      "name": "display.global.md.font-size",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "display",
+      "domain": "global",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 48,
+        "Mobile": 32
+      },
+      "aliasPath": "integer/48",
+      "scopes": [
+        "FONT_SIZE"
+      ],
+      "description": ""
+    },
+    {
+      "name": "display.global.md.letter-spacing",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "display",
+      "domain": "global",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": -0.8,
+        "Mobile": -0.8
+      },
+      "aliasPath": "float/neg08",
+      "scopes": [
+        "LETTER_SPACING"
+      ],
+      "description": ""
+    },
+    {
+      "name": "display.global.md.line-height",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "display",
+      "domain": "global",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 56,
+        "Mobile": 40
+      },
+      "aliasPath": "integer/56",
+      "scopes": [
+        "LINE_HEIGHT"
+      ],
+      "description": ""
+    },
+    {
+      "name": "display.global.sm.font-size",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "display",
+      "domain": "global",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 32,
+        "Mobile": 24
+      },
+      "aliasPath": "integer/32",
+      "scopes": [
+        "FONT_SIZE"
+      ],
+      "description": ""
+    },
+    {
+      "name": "display.global.sm.letter-spacing",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "display",
+      "domain": "global",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": -0.8,
+        "Mobile": -0.8
+      },
+      "aliasPath": "float/neg08",
+      "scopes": [
+        "LETTER_SPACING"
+      ],
+      "description": ""
+    },
+    {
+      "name": "display.global.sm.line-height",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "display",
+      "domain": "global",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 40,
+        "Mobile": 32
+      },
+      "aliasPath": "integer/40",
+      "scopes": [
+        "LINE_HEIGHT"
+      ],
+      "description": ""
+    },
+    {
+      "name": "headline.global.lg.font-size",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "headline",
+      "domain": "global",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 40,
+        "Mobile": 32
+      },
+      "aliasPath": "integer/40",
+      "scopes": [
+        "FONT_SIZE"
+      ],
+      "description": ""
+    },
+    {
+      "name": "headline.global.lg.letter-spacing",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "headline",
+      "domain": "global",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": -0.4,
+        "Mobile": 0
+      },
+      "aliasPath": "float/neg04",
+      "scopes": [
+        "LETTER_SPACING"
+      ],
+      "description": ""
+    },
+    {
+      "name": "headline.global.lg.line-height",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "headline",
+      "domain": "global",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 48,
+        "Mobile": 40
+      },
+      "aliasPath": "integer/48",
+      "scopes": [
+        "LINE_HEIGHT"
+      ],
+      "description": ""
+    },
+    {
+      "name": "headline.global.md.font-size",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "headline",
+      "domain": "global",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 32,
+        "Mobile": 28
+      },
+      "aliasPath": "integer/32",
+      "scopes": [
+        "FONT_SIZE"
+      ],
+      "description": ""
+    },
+    {
+      "name": "headline.global.md.letter-spacing",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "headline",
+      "domain": "global",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 0,
+        "Mobile": 0
+      },
+      "aliasPath": "integer/0",
+      "scopes": [
+        "LETTER_SPACING"
+      ],
+      "description": ""
+    },
+    {
+      "name": "headline.global.md.line-height",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "headline",
+      "domain": "global",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 40,
+        "Mobile": 32
+      },
+      "aliasPath": "integer/40",
+      "scopes": [
+        "LINE_HEIGHT"
+      ],
+      "description": ""
+    },
+    {
+      "name": "headline.global.sm.font-size",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "headline",
+      "domain": "global",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 24,
+        "Mobile": 24
+      },
+      "aliasPath": "integer/24",
+      "scopes": [
+        "FONT_SIZE"
+      ],
+      "description": ""
+    },
+    {
+      "name": "headline.global.sm.letter-spacing",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "headline",
+      "domain": "global",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 0,
+        "Mobile": 0
+      },
+      "aliasPath": "integer/0",
+      "scopes": [
+        "LETTER_SPACING"
+      ],
+      "description": ""
+    },
+    {
+      "name": "headline.global.sm.line-height",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "headline",
+      "domain": "global",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 32,
+        "Mobile": 32
+      },
+      "aliasPath": "integer/32",
+      "scopes": [
+        "LINE_HEIGHT"
+      ],
+      "description": ""
+    },
+    {
+      "name": "icon.global.2xl",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "icon",
+      "domain": "global",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 48,
+        "Mobile": 48
+      },
+      "aliasPath": "integer/48",
+      "scopes": [
+        "WIDTH_HEIGHT"
+      ],
+      "description": "used for a PageLoader only"
+    },
+    {
+      "name": "icon.global.lg",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "icon",
+      "domain": "global",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 24,
+        "Mobile": 24
+      },
+      "aliasPath": "integer/24",
+      "scopes": [
+        "WIDTH_HEIGHT"
+      ],
+      "description": ""
+    },
+    {
+      "name": "icon.global.md",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "icon",
+      "domain": "global",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 20,
+        "Mobile": 20
+      },
+      "aliasPath": "integer/20",
+      "scopes": [
+        "WIDTH_HEIGHT"
+      ],
+      "description": ""
+    },
+    {
+      "name": "icon.global.sm",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "icon",
+      "domain": "global",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 16,
+        "Mobile": 16
+      },
+      "aliasPath": "integer/16",
+      "scopes": [
+        "WIDTH_HEIGHT"
+      ],
+      "description": ""
+    },
+    {
+      "name": "icon.global.xl",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "icon",
+      "domain": "global",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 32,
+        "Mobile": 32
+      },
+      "aliasPath": "integer/32",
+      "scopes": [
+        "WIDTH_HEIGHT"
+      ],
+      "description": ""
+    },
+    {
+      "name": "icon.global.xs",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "icon",
+      "domain": "global",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 12,
+        "Mobile": 12
+      },
+      "aliasPath": "integer/12",
+      "scopes": [
+        "WIDTH_HEIGHT"
+      ],
+      "description": "used for toggles only"
+    },
+    {
+      "name": "inline.global.lg",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "inline",
+      "domain": "global",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 24,
+        "Mobile": 24
+      },
+      "aliasPath": "integer/24",
+      "scopes": [
+        "GAP"
+      ],
+      "description": ""
+    },
+    {
+      "name": "inline.global.md",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "inline",
+      "domain": "global",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 16,
+        "Mobile": 16
+      },
+      "aliasPath": "integer/16",
+      "scopes": [
+        "GAP"
+      ],
+      "description": ""
+    },
+    {
+      "name": "inline.global.sm",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "inline",
+      "domain": "global",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 8,
+        "Mobile": 8
+      },
+      "aliasPath": "integer/8",
+      "scopes": [
+        "GAP"
+      ],
+      "description": ""
+    },
+    {
+      "name": "inline.global.xs",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "inline",
+      "domain": "global",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 4,
+        "Mobile": 4
+      },
+      "aliasPath": "integer/4",
+      "scopes": [
+        "GAP"
+      ],
+      "description": ""
+    },
+    {
+      "name": "inset.global.lg",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "inset",
+      "domain": "global",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 20,
+        "Mobile": 16
+      },
+      "aliasPath": "integer/20",
+      "scopes": [
+        "GAP"
+      ],
+      "description": ""
+    },
+    {
+      "name": "inset.global.md",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "inset",
+      "domain": "global",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 16,
+        "Mobile": 12
+      },
+      "aliasPath": "integer/16",
+      "scopes": [
+        "GAP"
+      ],
+      "description": ""
+    },
+    {
+      "name": "inset.global.sm",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "inset",
+      "domain": "global",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 12,
+        "Mobile": 8
+      },
+      "aliasPath": "integer/12",
+      "scopes": [
+        "GAP"
+      ],
+      "description": ""
+    },
+    {
+      "name": "label.global.lg.font-size",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "label",
+      "domain": "global",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 16,
+        "Mobile": 16
+      },
+      "aliasPath": "integer/16",
+      "scopes": [
+        "FONT_SIZE"
+      ],
+      "description": ""
+    },
+    {
+      "name": "label.global.lg.letter-spacing",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "label",
+      "domain": "global",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 0,
+        "Mobile": 0
+      },
+      "aliasPath": "integer/0",
+      "scopes": [
+        "LETTER_SPACING"
+      ],
+      "description": ""
+    },
+    {
+      "name": "label.global.lg.line-height",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "label",
+      "domain": "global",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 20,
+        "Mobile": 20
+      },
+      "aliasPath": "integer/20",
+      "scopes": [
+        "LINE_HEIGHT"
+      ],
+      "description": ""
+    },
+    {
+      "name": "label.global.md.font-size",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "label",
+      "domain": "global",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 14,
+        "Mobile": 14
+      },
+      "aliasPath": "integer/14",
+      "scopes": [
+        "FONT_SIZE"
+      ],
+      "description": ""
+    },
+    {
+      "name": "label.global.md.letter-spacing",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "label",
+      "domain": "global",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 0,
+        "Mobile": 0
+      },
+      "aliasPath": "integer/0",
+      "scopes": [
+        "LETTER_SPACING"
+      ],
+      "description": ""
+    },
+    {
+      "name": "label.global.md.line-height",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "label",
+      "domain": "global",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 20,
+        "Mobile": 20
+      },
+      "aliasPath": "integer/20",
+      "scopes": [
+        "LINE_HEIGHT"
+      ],
+      "description": ""
+    },
+    {
+      "name": "label.global.sm.font-size",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "label",
+      "domain": "global",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 12,
+        "Mobile": 12
+      },
+      "aliasPath": "integer/12",
+      "scopes": [
+        "FONT_SIZE"
+      ],
+      "description": ""
+    },
+    {
+      "name": "label.global.sm.letter-spacing",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "label",
+      "domain": "global",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 0,
+        "Mobile": 0
+      },
+      "aliasPath": "integer/0",
+      "scopes": [
+        "LETTER_SPACING"
+      ],
+      "description": ""
+    },
+    {
+      "name": "label.global.sm.line-height",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "label",
+      "domain": "global",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 16,
+        "Mobile": 16
+      },
+      "aliasPath": "integer/16",
+      "scopes": [
+        "LINE_HEIGHT"
+      ],
+      "description": ""
+    },
+    {
+      "name": "label.global.xs.font-size",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "label",
+      "domain": "global",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 10,
+        "Mobile": 10
+      },
+      "aliasPath": "integer/10",
+      "scopes": [
+        "FONT_SIZE"
+      ],
+      "description": ""
+    },
+    {
+      "name": "label.global.xs.letter-spacing",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "label",
+      "domain": "global",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 0.4,
+        "Mobile": 0.4
+      },
+      "aliasPath": "float/04",
+      "scopes": [
+        "LETTER_SPACING"
+      ],
+      "description": ""
+    },
+    {
+      "name": "label.global.xs.line-height",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "label",
+      "domain": "global",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 16,
+        "Mobile": 16
+      },
+      "aliasPath": "integer/16",
+      "scopes": [
+        "LINE_HEIGHT"
+      ],
+      "description": ""
+    },
+    {
+      "name": "stack.global.lg",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "stack",
+      "domain": "global",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 16,
+        "Mobile": 16
+      },
+      "aliasPath": "integer/16",
+      "scopes": [
+        "GAP"
+      ],
+      "description": ""
+    },
+    {
+      "name": "stack.global.md",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "stack",
+      "domain": "global",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 12,
+        "Mobile": 8
+      },
+      "aliasPath": "integer/12",
+      "scopes": [
+        "GAP"
+      ],
+      "description": ""
+    },
+    {
+      "name": "stack.global.sm",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "stack",
+      "domain": "global",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 8,
+        "Mobile": 4
+      },
+      "aliasPath": "integer/8",
+      "scopes": [
+        "GAP"
+      ],
+      "description": ""
+    },
+    {
+      "name": "stack.global.xl",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "stack",
+      "domain": "global",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 32,
+        "Mobile": 24
+      },
+      "aliasPath": "integer/32",
+      "scopes": [
+        "GAP"
+      ],
+      "description": ""
+    },
+    {
+      "name": "stack.global.xs",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "stack",
+      "domain": "global",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 4,
+        "Mobile": 2
+      },
+      "aliasPath": "integer/4",
+      "scopes": [
+        "GAP"
+      ],
+      "description": ""
+    },
+    {
+      "name": "title.global.lg.font-size",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "title",
+      "domain": "global",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 18,
+        "Mobile": 18
+      },
+      "aliasPath": "integer/18",
+      "scopes": [
+        "FONT_SIZE"
+      ],
+      "description": ""
+    },
+    {
+      "name": "title.global.lg.letter-spacing",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "title",
+      "domain": "global",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 0,
+        "Mobile": 0
+      },
+      "aliasPath": "integer/0",
+      "scopes": [
+        "LETTER_SPACING"
+      ],
+      "description": ""
+    },
+    {
+      "name": "title.global.lg.line-height",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "title",
+      "domain": "global",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 24,
+        "Mobile": 24
+      },
+      "aliasPath": "integer/24",
+      "scopes": [
+        "LINE_HEIGHT"
+      ],
+      "description": ""
+    },
+    {
+      "name": "title.global.md.font-size",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "title",
+      "domain": "global",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 16,
+        "Mobile": 16
+      },
+      "aliasPath": "integer/16",
+      "scopes": [
+        "FONT_SIZE"
+      ],
+      "description": ""
+    },
+    {
+      "name": "title.global.md.letter-spacing",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "title",
+      "domain": "global",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 0,
+        "Mobile": 0
+      },
+      "aliasPath": "integer/0",
+      "scopes": [
+        "LETTER_SPACING"
+      ],
+      "description": ""
+    },
+    {
+      "name": "title.global.md.line-height",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "title",
+      "domain": "global",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 24,
+        "Mobile": 24
+      },
+      "aliasPath": "integer/24",
+      "scopes": [
+        "LINE_HEIGHT"
+      ],
+      "description": ""
+    },
+    {
+      "name": "title.global.sm.font-size",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "title",
+      "domain": "global",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 14,
+        "Mobile": 14
+      },
+      "aliasPath": "integer/14",
+      "scopes": [
+        "FONT_SIZE"
+      ],
+      "description": ""
+    },
+    {
+      "name": "title.global.sm.letter-spacing",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "title",
+      "domain": "global",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 0,
+        "Mobile": 0
+      },
+      "aliasPath": "integer/0",
+      "scopes": [
+        "LETTER_SPACING"
+      ],
+      "description": ""
+    },
+    {
+      "name": "title.global.sm.line-height",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "title",
+      "domain": "global",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 24,
+        "Mobile": 24
+      },
+      "aliasPath": "integer/24",
+      "scopes": [
+        "LINE_HEIGHT"
+      ],
+      "description": ""
+    }
+  ]
+}
