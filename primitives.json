@@ -1,0 +1,2093 @@
+{
+  "metadata": {
+    "syncedAt": "2026-03-23T15:48:11.600Z",
+    "figmaFileKey": "",
+    "figmaFileName": "UI Foundations (WIP)",
+    "collection": {
+      "name": "Primitives",
+      "layer": "Primitive",
+      "modes": [
+        {
+          "id": "153:0",
+          "name": "CoT"
+        }
+      ],
+      "defaultModeId": "153:0"
+    },
+    "tokenCount": 148
+  },
+  "tokens": [
+    {
+      "name": "alpha.black.0",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#00000000"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "alpha.black.10",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#0000001A"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "alpha.black.15",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#00000026"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "alpha.black.20",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#00000033"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "alpha.black.30",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#0000004D"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "alpha.black.40",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#00000066"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "alpha.black.5",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#0000000D"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "alpha.black.50",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#00000080"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "alpha.black.60",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#00000099"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "alpha.black.70",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#000000B2"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "alpha.black.80",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#000000CC"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "alpha.black.90",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#000000E5"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "alpha.white.0",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#FFFFFF00"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "alpha.white.10",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#FFFFFF1A"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "alpha.white.20",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#FFFFFF33"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "alpha.white.30",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#FFFFFF4D"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "alpha.white.40",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#FFFFFF66"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "alpha.white.50",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#FFFFFF80"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "alpha.white.60",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#FFFFFF99"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "alpha.white.70",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#FFFFFFB2"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "alpha.white.80",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#FFFFFFCC"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "alpha.white.90",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#FFFFFFE5"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "color.black",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#000000"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "color.blue.100",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#F0F3FF"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "color.blue.200",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#E7ECFF"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "color.blue.300",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#DDE4FF"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "color.blue.400",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#B2BFEE"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "color.blue.50",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#F6F8FF"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "color.blue.500",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#5373E4"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "color.blue.600",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#4466DD"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "color.blue.700",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#3659D6"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "color.blue.800",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#284DCF"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "color.blue.900",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#193FC8"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "color.blue.950",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#172554"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "color.gray.100",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#F6F6F6"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "color.gray.200",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#F0F0F0"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "color.gray.300",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#E6E6E8"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "color.gray.400",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#B3B5B9"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "color.gray.50",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#FCFCFC"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "color.gray.500",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#62676F"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "color.gray.600",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#4D525B"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "color.gray.700",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#333943"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "color.gray.800",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#19212B"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "color.gray.900",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#000814"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "color.gray.950",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#00040B"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "color.green.100",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#E1F6E0"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "color.green.200",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#D7F2D6"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "color.green.300",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#BBE6B8"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "color.green.400",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#99D895"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "color.green.50",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#F7FFF7"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "color.green.500",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#4FB848"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "color.green.600",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#3EA937"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "color.green.700",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#2E9C27"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "color.green.800",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#1B8B13"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "color.green.900",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#097C00"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "color.green.950",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#065300"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "color.red.100",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#FCEAE8"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "color.red.200",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#F3CBC5"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "color.red.300",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#EBB1A9"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "color.red.400",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#E4978D"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "color.red.50",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#FFF6F4"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "color.red.500",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#DD5C4C"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "color.red.600",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#D64C3A"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "color.red.700",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#D03F2C"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "color.red.800",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#CA311D"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "color.red.900",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#C11E08"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "color.red.950",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#9B1200"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "color.white",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#FFFFFF"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "color.yellow.100",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#FFEAB2"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "color.yellow.200",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#FDDD82"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "color.yellow.300",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#FDD051"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "color.yellow.400",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#FDC52F"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "color.yellow.50",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#FFF8E0"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "color.yellow.500",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#F4AF1A"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "color.yellow.600",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#FCAE2A"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "color.yellow.700",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#FC9A27"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "color.yellow.800",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#FC8A25"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "color.yellow.900",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#FB6921"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "color.yellow.950",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "COLOR",
+      "values": {
+        "CoT": "#DB5513"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "float.04",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "FLOAT",
+      "values": {
+        "CoT": 0.4
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "float.08",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "FLOAT",
+      "values": {
+        "CoT": 0.8
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "float.neg04",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "FLOAT",
+      "values": {
+        "CoT": -0.4
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "float.neg08",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "FLOAT",
+      "values": {
+        "CoT": -0.8
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "integer.0",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "FLOAT",
+      "values": {
+        "CoT": 0
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "integer.1",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "FLOAT",
+      "values": {
+        "CoT": 1
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "integer.10",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "FLOAT",
+      "values": {
+        "CoT": 10
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "integer.1024",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "FLOAT",
+      "values": {
+        "CoT": 1024
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "integer.12",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "FLOAT",
+      "values": {
+        "CoT": 12
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "integer.128",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "FLOAT",
+      "values": {
+        "CoT": 128
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "integer.14",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "FLOAT",
+      "values": {
+        "CoT": 14
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "integer.16",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "FLOAT",
+      "values": {
+        "CoT": 16
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "integer.160",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "FLOAT",
+      "values": {
+        "CoT": 160
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "integer.18",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "FLOAT",
+      "values": {
+        "CoT": 18
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "integer.192",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "FLOAT",
+      "values": {
+        "CoT": 192
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "integer.2",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "FLOAT",
+      "values": {
+        "CoT": 2
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "integer.20",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "FLOAT",
+      "values": {
+        "CoT": 20
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "integer.224",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "FLOAT",
+      "values": {
+        "CoT": 224
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "integer.24",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "FLOAT",
+      "values": {
+        "CoT": 24
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "integer.256",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "FLOAT",
+      "values": {
+        "CoT": 256
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "integer.28",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "FLOAT",
+      "values": {
+        "CoT": 28
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "integer.3",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "FLOAT",
+      "values": {
+        "CoT": 3
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "integer.32",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "FLOAT",
+      "values": {
+        "CoT": 32
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "integer.320",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "FLOAT",
+      "values": {
+        "CoT": 320
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "integer.36",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "FLOAT",
+      "values": {
+        "CoT": 36
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "integer.384",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "FLOAT",
+      "values": {
+        "CoT": 384
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "integer.4",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "FLOAT",
+      "values": {
+        "CoT": 4
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "integer.40",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "FLOAT",
+      "values": {
+        "CoT": 40
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "integer.448",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "FLOAT",
+      "values": {
+        "CoT": 448
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "integer.48",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "FLOAT",
+      "values": {
+        "CoT": 48
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "integer.5",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "FLOAT",
+      "values": {
+        "CoT": 5
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "integer.512",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "FLOAT",
+      "values": {
+        "CoT": 512
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "integer.56",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "FLOAT",
+      "values": {
+        "CoT": 56
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "integer.6",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "FLOAT",
+      "values": {
+        "CoT": 6
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "integer.60",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "FLOAT",
+      "values": {
+        "CoT": 60
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "integer.64",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "FLOAT",
+      "values": {
+        "CoT": 64
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "integer.640",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "FLOAT",
+      "values": {
+        "CoT": 640
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "integer.72",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "FLOAT",
+      "values": {
+        "CoT": 72
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "integer.768",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "FLOAT",
+      "values": {
+        "CoT": 768
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "integer.8",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "FLOAT",
+      "values": {
+        "CoT": 8
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "integer.80",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "FLOAT",
+      "values": {
+        "CoT": 80
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "integer.896",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "FLOAT",
+      "values": {
+        "CoT": 896
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "integer.96",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "FLOAT",
+      "values": {
+        "CoT": 96
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "integer.9999",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "FLOAT",
+      "values": {
+        "CoT": 9999
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "integer.neg2",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "FLOAT",
+      "values": {
+        "CoT": -2
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "integer.neg4",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "FLOAT",
+      "values": {
+        "CoT": -4
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "integer.neg8",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "FLOAT",
+      "values": {
+        "CoT": -8
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "opacity.10",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "FLOAT",
+      "values": {
+        "CoT": 10
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "opacity.100",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "FLOAT",
+      "values": {
+        "CoT": 100
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "opacity.20",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "FLOAT",
+      "values": {
+        "CoT": 20
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "opacity.30",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "FLOAT",
+      "values": {
+        "CoT": 30
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "opacity.40",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "FLOAT",
+      "values": {
+        "CoT": 40
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "opacity.5",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "FLOAT",
+      "values": {
+        "CoT": 5
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "opacity.50",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "FLOAT",
+      "values": {
+        "CoT": 50
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "opacity.60",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "FLOAT",
+      "values": {
+        "CoT": 60
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "opacity.70",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "FLOAT",
+      "values": {
+        "CoT": 70
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "opacity.80",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "FLOAT",
+      "values": {
+        "CoT": 80
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "opacity.90",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "FLOAT",
+      "values": {
+        "CoT": 90
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "type.font-family.base",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "STRING",
+      "values": {
+        "CoT": "Inter"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "type.font-family.mono",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "STRING",
+      "values": {
+        "CoT": "Roboto Mono"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "type.font-family.sans",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "STRING",
+      "values": {
+        "CoT": "Epilogue"
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "type.font-weight.black",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "FLOAT",
+      "values": {
+        "CoT": 900
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "type.font-weight.bold",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "FLOAT",
+      "values": {
+        "CoT": 700
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "type.font-weight.light",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "FLOAT",
+      "values": {
+        "CoT": 300
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "type.font-weight.medium",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "FLOAT",
+      "values": {
+        "CoT": 500
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "type.font-weight.regular",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "FLOAT",
+      "values": {
+        "CoT": 400
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "type.font-weight.semibold",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "FLOAT",
+      "values": {
+        "CoT": 600
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "viewport.1366",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "FLOAT",
+      "values": {
+        "CoT": 1366
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    },
+    {
+      "name": "viewport.390",
+      "collection": "Primitives",
+      "layer": "Primitive",
+      "category": "",
+      "domain": "",
+      "resolvedType": "FLOAT",
+      "values": {
+        "CoT": 390
+      },
+      "aliasPath": "",
+      "scopes": [],
+      "description": ""
+    }
+  ]
+}
