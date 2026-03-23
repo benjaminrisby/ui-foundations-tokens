@@ -1,0 +1,450 @@
+{
+  "metadata": {
+    "syncedAt": "2026-03-23T15:48:11.600Z",
+    "figmaFileKey": "",
+    "figmaFileName": "UI Foundations (WIP)",
+    "collection": {
+      "name": "Dimension (Component)",
+      "layer": "Component",
+      "modes": [
+        {
+          "id": "2046:3",
+          "name": "Desktop"
+        },
+        {
+          "id": "2391:6",
+          "name": "Mobile"
+        }
+      ],
+      "defaultModeId": "2046:3"
+    },
+    "tokenCount": 25
+  },
+  "tokens": [
+    {
+      "name": "box.emblem.lg",
+      "collection": "Dimension (Component)",
+      "layer": "Component",
+      "category": "box",
+      "domain": "emblem",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 48,
+        "Mobile": 48
+      },
+      "aliasPath": "integer/48",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "description": ""
+    },
+    {
+      "name": "box.emblem.md",
+      "collection": "Dimension (Component)",
+      "layer": "Component",
+      "category": "box",
+      "domain": "emblem",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 40,
+        "Mobile": 40
+      },
+      "aliasPath": "integer/40",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "description": ""
+    },
+    {
+      "name": "box.emblem.sm",
+      "collection": "Dimension (Component)",
+      "layer": "Component",
+      "category": "box",
+      "domain": "emblem",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 32,
+        "Mobile": 32
+      },
+      "aliasPath": "integer/32",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "description": ""
+    },
+    {
+      "name": "box.emblem.xl",
+      "collection": "Dimension (Component)",
+      "layer": "Component",
+      "category": "box",
+      "domain": "emblem",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 56,
+        "Mobile": 56
+      },
+      "aliasPath": "integer/56",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "description": ""
+    },
+    {
+      "name": "box.emblem.xs",
+      "collection": "Dimension (Component)",
+      "layer": "Component",
+      "category": "box",
+      "domain": "emblem",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 24,
+        "Mobile": 24
+      },
+      "aliasPath": "integer/24",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "description": ""
+    },
+    {
+      "name": "inset.badge.lg.padding-x",
+      "collection": "Dimension (Component)",
+      "layer": "Component",
+      "category": "inset",
+      "domain": "badge",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 8,
+        "Mobile": 8
+      },
+      "aliasPath": "integer/8",
+      "scopes": [
+        "GAP"
+      ],
+      "description": ""
+    },
+    {
+      "name": "inset.badge.lg.padding-y",
+      "collection": "Dimension (Component)",
+      "layer": "Component",
+      "category": "inset",
+      "domain": "badge",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 5,
+        "Mobile": 5
+      },
+      "aliasPath": "integer/5",
+      "scopes": [
+        "GAP"
+      ],
+      "description": ""
+    },
+    {
+      "name": "inset.badge.sm.padding-x",
+      "collection": "Dimension (Component)",
+      "layer": "Component",
+      "category": "inset",
+      "domain": "badge",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 4,
+        "Mobile": 4
+      },
+      "aliasPath": "integer/4",
+      "scopes": [
+        "GAP"
+      ],
+      "description": ""
+    },
+    {
+      "name": "inset.badge.sm.padding-y",
+      "collection": "Dimension (Component)",
+      "layer": "Component",
+      "category": "inset",
+      "domain": "badge",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 1,
+        "Mobile": 1
+      },
+      "aliasPath": "integer/1",
+      "scopes": [
+        "GAP"
+      ],
+      "description": ""
+    },
+    {
+      "name": "inset.button.lg.padding-x",
+      "collection": "Dimension (Component)",
+      "layer": "Component",
+      "category": "inset",
+      "domain": "button",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 32,
+        "Mobile": 32
+      },
+      "aliasPath": "integer/32",
+      "scopes": [
+        "GAP"
+      ],
+      "description": ""
+    },
+    {
+      "name": "inset.button.lg.padding-y",
+      "collection": "Dimension (Component)",
+      "layer": "Component",
+      "category": "inset",
+      "domain": "button",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 14,
+        "Mobile": 14
+      },
+      "aliasPath": "integer/14",
+      "scopes": [
+        "GAP"
+      ],
+      "description": ""
+    },
+    {
+      "name": "inset.button.md.padding-x",
+      "collection": "Dimension (Component)",
+      "layer": "Component",
+      "category": "inset",
+      "domain": "button",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 24,
+        "Mobile": 24
+      },
+      "aliasPath": "integer/24",
+      "scopes": [
+        "GAP"
+      ],
+      "description": ""
+    },
+    {
+      "name": "inset.button.md.padding-y",
+      "collection": "Dimension (Component)",
+      "layer": "Component",
+      "category": "inset",
+      "domain": "button",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 10,
+        "Mobile": 10
+      },
+      "aliasPath": "integer/10",
+      "scopes": [
+        "GAP"
+      ],
+      "description": ""
+    },
+    {
+      "name": "inset.button.sm.padding-x",
+      "collection": "Dimension (Component)",
+      "layer": "Component",
+      "category": "inset",
+      "domain": "button",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 16,
+        "Mobile": 16
+      },
+      "aliasPath": "integer/16",
+      "scopes": [
+        "GAP"
+      ],
+      "description": ""
+    },
+    {
+      "name": "inset.button.sm.padding-y",
+      "collection": "Dimension (Component)",
+      "layer": "Component",
+      "category": "inset",
+      "domain": "button",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 6,
+        "Mobile": 6
+      },
+      "aliasPath": "integer/6",
+      "scopes": [
+        "GAP"
+      ],
+      "description": ""
+    },
+    {
+      "name": "inset.button.xs.padding-x",
+      "collection": "Dimension (Component)",
+      "layer": "Component",
+      "category": "inset",
+      "domain": "button",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 12,
+        "Mobile": 12
+      },
+      "aliasPath": "integer/12",
+      "scopes": [
+        "GAP"
+      ],
+      "description": ""
+    },
+    {
+      "name": "inset.button.xs.padding-y",
+      "collection": "Dimension (Component)",
+      "layer": "Component",
+      "category": "inset",
+      "domain": "button",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 2,
+        "Mobile": 2
+      },
+      "aliasPath": "integer/2",
+      "scopes": [
+        "GAP"
+      ],
+      "description": ""
+    },
+    {
+      "name": "inset.input.lg.padding-x",
+      "collection": "Dimension (Component)",
+      "layer": "Component",
+      "category": "inset",
+      "domain": "input",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 16,
+        "Mobile": 16
+      },
+      "aliasPath": "integer/16",
+      "scopes": [
+        "GAP"
+      ],
+      "description": ""
+    },
+    {
+      "name": "inset.input.lg.padding-y",
+      "collection": "Dimension (Component)",
+      "layer": "Component",
+      "category": "inset",
+      "domain": "input",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 10,
+        "Mobile": 10
+      },
+      "aliasPath": "integer/10",
+      "scopes": [
+        "GAP"
+      ],
+      "description": ""
+    },
+    {
+      "name": "inset.input.md.padding-x",
+      "collection": "Dimension (Component)",
+      "layer": "Component",
+      "category": "inset",
+      "domain": "input",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 16,
+        "Mobile": 16
+      },
+      "aliasPath": "integer/16",
+      "scopes": [
+        "GAP"
+      ],
+      "description": ""
+    },
+    {
+      "name": "inset.input.md.padding-y",
+      "collection": "Dimension (Component)",
+      "layer": "Component",
+      "category": "inset",
+      "domain": "input",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 6,
+        "Mobile": 6
+      },
+      "aliasPath": "integer/6",
+      "scopes": [
+        "GAP"
+      ],
+      "description": ""
+    },
+    {
+      "name": "inset.input.sm.padding-x",
+      "collection": "Dimension (Component)",
+      "layer": "Component",
+      "category": "inset",
+      "domain": "input",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 16,
+        "Mobile": 16
+      },
+      "aliasPath": "integer/16",
+      "scopes": [
+        "GAP"
+      ],
+      "description": ""
+    },
+    {
+      "name": "inset.input.sm.padding-y",
+      "collection": "Dimension (Component)",
+      "layer": "Component",
+      "category": "inset",
+      "domain": "input",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 4,
+        "Mobile": 4
+      },
+      "aliasPath": "integer/4",
+      "scopes": [
+        "GAP"
+      ],
+      "description": ""
+    },
+    {
+      "name": "inset.toggleCard.padding-x",
+      "collection": "Dimension (Component)",
+      "layer": "Component",
+      "category": "inset",
+      "domain": "toggleCard",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 16,
+        "Mobile": 16
+      },
+      "aliasPath": "integer/16",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "description": ""
+    },
+    {
+      "name": "inset.toggleCard.padding-y",
+      "collection": "Dimension (Component)",
+      "layer": "Component",
+      "category": "inset",
+      "domain": "toggleCard",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 12,
+        "Mobile": 12
+      },
+      "aliasPath": "integer/12",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "description": ""
+    }
+  ]
+}
