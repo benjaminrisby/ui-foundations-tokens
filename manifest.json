@@ -1,0 +1,28 @@
+{
+  "syncedAt": "2026-03-23T15:48:11.600Z",
+  "figmaFileKey": "",
+  "figmaFileName": "UI Foundations (WIP)",
+  "files": {
+    "brand-component.json": {
+      "collection": "Brand (Component)",
+      "tokenCount": 0
+    },
+    "brand-semantic.json": {
+      "collection": "Brand (Semantic)",
+      "tokenCount": 143
+    },
+    "dimension-component.json": {
+      "collection": "Dimension (Component)",
+      "tokenCount": 25
+    },
+    "dimension-semantic.json": {
+      "collection": "Dimension (Semantic)",
+      "tokenCount": 70
+    },
+    "primitives.json": {
+      "collection": "Primitives",
+      "tokenCount": 148
+    }
+  },
+  "totalTokenCount": 386
+}
