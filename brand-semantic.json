@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "syncedAt": "2026-03-23T16:15:06.085Z",
+    "syncedAt": "2026-03-24T10:14:17.164Z",
     "figmaFileKey": "hyamZgAVI1uShJPaAmO7ZP",
     "figmaFileName": "UI Foundations (WIP)",
     "collection": {
@@ -18,7 +18,7 @@
       ],
       "defaultModeId": "2369:5"
     },
-    "tokenCount": 143
+    "tokenCount": 151
   },
   "tokens": [
     {
@@ -254,6 +254,23 @@
         "Accent": "#000814"
       },
       "aliasPath": "color/gray/900",
+      "scopes": [
+        "TEXT_FILL"
+      ],
+      "description": ""
+    },
+    {
+      "name": "body.global.disabled",
+      "collection": "Brand (Semantic)",
+      "layer": "Semantic",
+      "category": "body",
+      "domain": "global",
+      "resolvedType": "COLOR",
+      "values": {
+        "Base": "#62676F",
+        "Accent": "#62676F"
+      },
+      "aliasPath": "color/gray/500",
       "scopes": [
         "TEXT_FILL"
       ],
@@ -545,6 +562,91 @@
       "aliasPath": "integer/1",
       "scopes": [
         "STROKE_FLOAT"
+      ],
+      "description": ""
+    },
+    {
+      "name": "border.input.disabled",
+      "collection": "Brand (Semantic)",
+      "layer": "Semantic",
+      "category": "border",
+      "domain": "input",
+      "resolvedType": "COLOR",
+      "values": {
+        "Base": "#B3B5B9",
+        "Accent": "#B3B5B9"
+      },
+      "aliasPath": "color/gray/400",
+      "scopes": [
+        "STROKE_COLOR"
+      ],
+      "description": ""
+    },
+    {
+      "name": "border.input.enabled",
+      "collection": "Brand (Semantic)",
+      "layer": "Semantic",
+      "category": "border",
+      "domain": "input",
+      "resolvedType": "COLOR",
+      "values": {
+        "Base": "#62676F",
+        "Accent": "#62676F"
+      },
+      "aliasPath": "color/gray/500",
+      "scopes": [
+        "STROKE_COLOR"
+      ],
+      "description": ""
+    },
+    {
+      "name": "border.input.error",
+      "collection": "Brand (Semantic)",
+      "layer": "Semantic",
+      "category": "border",
+      "domain": "input",
+      "resolvedType": "COLOR",
+      "values": {
+        "Base": "#C11E08",
+        "Accent": "#C11E08"
+      },
+      "aliasPath": "color/red/900",
+      "scopes": [
+        "STROKE_COLOR"
+      ],
+      "description": ""
+    },
+    {
+      "name": "border.input.focus",
+      "collection": "Brand (Semantic)",
+      "layer": "Semantic",
+      "category": "border",
+      "domain": "input",
+      "resolvedType": "COLOR",
+      "values": {
+        "Base": "#3659D6",
+        "Accent": "#3659D6"
+      },
+      "aliasPath": "color/blue/700",
+      "scopes": [
+        "STROKE_COLOR"
+      ],
+      "description": ""
+    },
+    {
+      "name": "border.input.hover",
+      "collection": "Brand (Semantic)",
+      "layer": "Semantic",
+      "category": "border",
+      "domain": "input",
+      "resolvedType": "COLOR",
+      "values": {
+        "Base": "#4D525B",
+        "Accent": "#4D525B"
+      },
+      "aliasPath": "color/gray/600",
+      "scopes": [
+        "STROKE_COLOR"
       ],
       "description": ""
     },
@@ -1121,6 +1223,40 @@
         "Accent": "#333943"
       },
       "aliasPath": "color/gray/300",
+      "scopes": [
+        "FRAME_FILL"
+      ],
+      "description": ""
+    },
+    {
+      "name": "fill.input.disabled",
+      "collection": "Brand (Semantic)",
+      "layer": "Semantic",
+      "category": "fill",
+      "domain": "input",
+      "resolvedType": "COLOR",
+      "values": {
+        "Base": "#F0F0F0",
+        "Accent": "#F0F0F0"
+      },
+      "aliasPath": "color/gray/200",
+      "scopes": [
+        "FRAME_FILL"
+      ],
+      "description": ""
+    },
+    {
+      "name": "fill.input.enabled",
+      "collection": "Brand (Semantic)",
+      "layer": "Semantic",
+      "category": "fill",
+      "domain": "input",
+      "resolvedType": "COLOR",
+      "values": {
+        "Base": "#FFFFFF",
+        "Accent": "#FFFFFF"
+      },
+      "aliasPath": "color/white",
       "scopes": [
         "FRAME_FILL"
       ],
