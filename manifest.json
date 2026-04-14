@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-03-24T10:14:17.164Z",
+  "syncedAt": "2026-04-14T16:30:28.755Z",
   "figmaFileKey": "hyamZgAVI1uShJPaAmO7ZP",
   "figmaFileName": "UI Foundations (WIP)",
   "files": {
@@ -9,11 +9,11 @@
     },
     "brand-semantic.json": {
       "collection": "Brand (Semantic)",
-      "tokenCount": 151
+      "tokenCount": 154
     },
     "dimension-component.json": {
       "collection": "Dimension (Component)",
-      "tokenCount": 25
+      "tokenCount": 27
     },
     "dimension-semantic.json": {
       "collection": "Dimension (Semantic)",
@@ -24,5 +24,5 @@
       "tokenCount": 148
     }
   },
-  "totalTokenCount": 394
+  "totalTokenCount": 399
 }
