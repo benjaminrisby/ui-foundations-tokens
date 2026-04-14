@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "syncedAt": "2026-03-24T10:14:17.164Z",
+    "syncedAt": "2026-04-14T16:30:28.755Z",
     "figmaFileKey": "hyamZgAVI1uShJPaAmO7ZP",
     "figmaFileName": "UI Foundations (WIP)",
     "collection": {
@@ -18,7 +18,7 @@
       ],
       "defaultModeId": "2369:5"
     },
-    "tokenCount": 151
+    "tokenCount": 154
   },
   "tokens": [
     {
@@ -459,7 +459,7 @@
       },
       "aliasPath": "color/gray/300",
       "scopes": [
-        "ALL_SCOPES"
+        "STROKE_COLOR"
       ],
       "description": ""
     },
@@ -1263,6 +1263,23 @@
       "description": ""
     },
     {
+      "name": "fill.input.hover",
+      "collection": "Brand (Semantic)",
+      "layer": "Semantic",
+      "category": "fill",
+      "domain": "input",
+      "resolvedType": "COLOR",
+      "values": {
+        "Base": "#FCFCFC",
+        "Accent": "#FCFCFC"
+      },
+      "aliasPath": "color/gray/50",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "description": ""
+    },
+    {
       "name": "fill.skeleton.base",
       "collection": "Brand (Semantic)",
       "layer": "Semantic",
@@ -1321,10 +1338,10 @@
       "domain": "toggle",
       "resolvedType": "COLOR",
       "values": {
-        "Base": "#284DCF",
+        "Base": "#C11E08",
         "Accent": "#C11E08"
       },
-      "aliasPath": "color/blue/800",
+      "aliasPath": "color/red/900",
       "scopes": [
         "FRAME_FILL"
       ],
@@ -2396,6 +2413,40 @@
         "Accent": "#FFFFFF"
       },
       "aliasPath": "color/gray/600",
+      "scopes": [
+        "TEXT_FILL"
+      ],
+      "description": ""
+    },
+    {
+      "name": "label.input.error",
+      "collection": "Brand (Semantic)",
+      "layer": "Semantic",
+      "category": "label",
+      "domain": "input",
+      "resolvedType": "COLOR",
+      "values": {
+        "Base": "#C11E08",
+        "Accent": "#C11E08"
+      },
+      "aliasPath": "color/red/900",
+      "scopes": [
+        "TEXT_FILL"
+      ],
+      "description": ""
+    },
+    {
+      "name": "label.input.focus",
+      "collection": "Brand (Semantic)",
+      "layer": "Semantic",
+      "category": "label",
+      "domain": "input",
+      "resolvedType": "COLOR",
+      "values": {
+        "Base": "#3659D6",
+        "Accent": "#3659D6"
+      },
+      "aliasPath": "color/blue/700",
       "scopes": [
         "TEXT_FILL"
       ],
