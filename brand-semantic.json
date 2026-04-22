@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "syncedAt": "2026-04-14T16:30:28.755Z",
+    "syncedAt": "2026-04-22T13:51:59.138Z",
     "figmaFileKey": "hyamZgAVI1uShJPaAmO7ZP",
-    "figmaFileName": "UI Foundations (WIP)",
+    "figmaFileName": "WIP - UI Foundations",
     "collection": {
       "name": "Brand (Semantic)",
       "layer": "Semantic",
@@ -18,7 +18,7 @@
       ],
       "defaultModeId": "2369:5"
     },
-    "tokenCount": 154
+    "tokenCount": 161
   },
   "tokens": [
     {
@@ -175,6 +175,142 @@
       "description": ""
     },
     {
+      "name": "bg.feedback.critical.base",
+      "collection": "Brand (Semantic)",
+      "layer": "Semantic",
+      "category": "bg",
+      "domain": "feedback",
+      "resolvedType": "COLOR",
+      "values": {
+        "Base": "#F6F6F6",
+        "Accent": "#F6F6F6"
+      },
+      "aliasPath": "color/gray/100",
+      "scopes": [
+        "FRAME_FILL"
+      ],
+      "description": ""
+    },
+    {
+      "name": "bg.feedback.info.base",
+      "collection": "Brand (Semantic)",
+      "layer": "Semantic",
+      "category": "bg",
+      "domain": "feedback",
+      "resolvedType": "COLOR",
+      "values": {
+        "Base": "#F0F3FF",
+        "Accent": "#F0F3FF"
+      },
+      "aliasPath": "color/blue/100",
+      "scopes": [
+        "FRAME_FILL"
+      ],
+      "description": ""
+    },
+    {
+      "name": "bg.feedback.neutral.base",
+      "collection": "Brand (Semantic)",
+      "layer": "Semantic",
+      "category": "bg",
+      "domain": "feedback",
+      "resolvedType": "COLOR",
+      "values": {
+        "Base": "#F6F6F6",
+        "Accent": "#F6F6F6"
+      },
+      "aliasPath": "color/gray/100",
+      "scopes": [
+        "FRAME_FILL"
+      ],
+      "description": ""
+    },
+    {
+      "name": "bg.feedback.success.base",
+      "collection": "Brand (Semantic)",
+      "layer": "Semantic",
+      "category": "bg",
+      "domain": "feedback",
+      "resolvedType": "COLOR",
+      "values": {
+        "Base": "#E1F6E0",
+        "Accent": "#E1F6E0"
+      },
+      "aliasPath": "color/green/100",
+      "scopes": [
+        "FRAME_FILL"
+      ],
+      "description": ""
+    },
+    {
+      "name": "bg.feedback.warning.base",
+      "collection": "Brand (Semantic)",
+      "layer": "Semantic",
+      "category": "bg",
+      "domain": "feedback",
+      "resolvedType": "COLOR",
+      "values": {
+        "Base": "#FFEAB2",
+        "Accent": "#FFEAB2"
+      },
+      "aliasPath": "color/yellow/100",
+      "scopes": [
+        "FRAME_FILL"
+      ],
+      "description": ""
+    },
+    {
+      "name": "bg.option.selected.enabled",
+      "collection": "Brand (Semantic)",
+      "layer": "Semantic",
+      "category": "bg",
+      "domain": "option",
+      "resolvedType": "COLOR",
+      "values": {
+        "Base": "#F0F3FF",
+        "Accent": "#F0F3FF"
+      },
+      "aliasPath": "color/blue/100",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "description": ""
+    },
+    {
+      "name": "bg.option.selected.hover",
+      "collection": "Brand (Semantic)",
+      "layer": "Semantic",
+      "category": "bg",
+      "domain": "option",
+      "resolvedType": "COLOR",
+      "values": {
+        "Base": "#E7ECFF",
+        "Accent": "#E7ECFF"
+      },
+      "aliasPath": "color/blue/200",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "description": ""
+    },
+    {
+      "name": "bg.option.unselected.hover",
+      "collection": "Brand (Semantic)",
+      "layer": "Semantic",
+      "category": "bg",
+      "domain": "option",
+      "resolvedType": "COLOR",
+      "values": {
+        "Base": "#F6F6F6",
+        "Accent": "#F6F6F6"
+      },
+      "aliasPath": "color/gray/100",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "description": ""
+    },
+    {
       "name": "bg.overlay.base",
       "collection": "Brand (Semantic)",
       "layer": "Semantic",
@@ -220,23 +356,6 @@
         "Accent": "#FCFCFC"
       },
       "aliasPath": "color/gray/50",
-      "scopes": [
-        "FRAME_FILL"
-      ],
-      "description": ""
-    },
-    {
-      "name": "bg.raised.base",
-      "collection": "Brand (Semantic)",
-      "layer": "Semantic",
-      "category": "bg",
-      "domain": "raised",
-      "resolvedType": "COLOR",
-      "values": {
-        "Base": "#FFFFFF",
-        "Accent": "#FFFFFF"
-      },
-      "aliasPath": "color/white",
       "scopes": [
         "FRAME_FILL"
       ],
