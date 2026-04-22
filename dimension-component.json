@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "syncedAt": "2026-04-14T16:30:28.755Z",
+    "syncedAt": "2026-04-22T13:51:59.138Z",
     "figmaFileKey": "hyamZgAVI1uShJPaAmO7ZP",
-    "figmaFileName": "UI Foundations (WIP)",
+    "figmaFileName": "WIP - UI Foundations",
     "collection": {
       "name": "Dimension (Component)",
       "layer": "Component",
@@ -18,7 +18,7 @@
       ],
       "defaultModeId": "2046:3"
     },
-    "tokenCount": 27
+    "tokenCount": 33
   },
   "tokens": [
     {
@@ -443,6 +443,108 @@
       "aliasPath": "integer/14",
       "scopes": [
         "GAP"
+      ],
+      "description": ""
+    },
+    {
+      "name": "inset.panelDivider.padding-y",
+      "collection": "Dimension (Component)",
+      "layer": "Component",
+      "category": "inset",
+      "domain": "panelDivider",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 4,
+        "Mobile": 4
+      },
+      "aliasPath": "integer/4",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "description": ""
+    },
+    {
+      "name": "inset.panelHeader.padding-bottom",
+      "collection": "Dimension (Component)",
+      "layer": "Component",
+      "category": "inset",
+      "domain": "panelHeader",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 8,
+        "Mobile": 8
+      },
+      "aliasPath": "integer/8",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "description": ""
+    },
+    {
+      "name": "inset.panelHeader.padding-top",
+      "collection": "Dimension (Component)",
+      "layer": "Component",
+      "category": "inset",
+      "domain": "panelHeader",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 12,
+        "Mobile": 12
+      },
+      "aliasPath": "integer/12",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "description": ""
+    },
+    {
+      "name": "inset.panelHeader.padding-x",
+      "collection": "Dimension (Component)",
+      "layer": "Component",
+      "category": "inset",
+      "domain": "panelHeader",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 16,
+        "Mobile": 16
+      },
+      "aliasPath": "integer/16",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "description": ""
+    },
+    {
+      "name": "inset.panelItem.padding-x",
+      "collection": "Dimension (Component)",
+      "layer": "Component",
+      "category": "inset",
+      "domain": "panelItem",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 12,
+        "Mobile": 16
+      },
+      "aliasPath": "integer/12",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "description": ""
+    },
+    {
+      "name": "inset.panelItem.padding-y",
+      "collection": "Dimension (Component)",
+      "layer": "Component",
+      "category": "inset",
+      "domain": "panelItem",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 12,
+        "Mobile": 12
+      },
+      "aliasPath": "integer/12",
+      "scopes": [
+        "ALL_SCOPES"
       ],
       "description": ""
     },
