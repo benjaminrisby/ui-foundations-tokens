@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "syncedAt": "2026-04-23T16:12:36.752Z",
+    "syncedAt": "2026-04-29T14:42:16.336Z",
     "figmaFileKey": "hyamZgAVI1uShJPaAmO7ZP",
-    "figmaFileName": "WIP - UI Foundations",
+    "figmaFileName": "⭐ WIP - UI Foundations",
     "collection": {
       "name": "Dimension (Semantic)",
       "layer": "Semantic",
@@ -999,7 +999,7 @@
       "resolvedType": "FLOAT",
       "values": {
         "Desktop": 12,
-        "Mobile": 8
+        "Mobile": 12
       },
       "aliasPath": "integer/12",
       "scopes": [
@@ -1016,7 +1016,7 @@
       "resolvedType": "FLOAT",
       "values": {
         "Desktop": 8,
-        "Mobile": 4
+        "Mobile": 8
       },
       "aliasPath": "integer/8",
       "scopes": [
@@ -1050,7 +1050,7 @@
       "resolvedType": "FLOAT",
       "values": {
         "Desktop": 4,
-        "Mobile": 2
+        "Mobile": 4
       },
       "aliasPath": "integer/4",
       "scopes": [
