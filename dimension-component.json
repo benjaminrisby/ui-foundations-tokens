@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "syncedAt": "2026-04-23T16:12:36.752Z",
+    "syncedAt": "2026-04-29T14:42:16.336Z",
     "figmaFileKey": "hyamZgAVI1uShJPaAmO7ZP",
-    "figmaFileName": "WIP - UI Foundations",
+    "figmaFileName": "⭐ WIP - UI Foundations",
     "collection": {
       "name": "Dimension (Component)",
       "layer": "Component",
@@ -311,23 +311,6 @@
       "description": ""
     },
     {
-      "name": "inset.dropdown.all",
-      "collection": "Dimension (Component)",
-      "layer": "Component",
-      "category": "inset",
-      "domain": "dropdown",
-      "resolvedType": "FLOAT",
-      "values": {
-        "Desktop": 4,
-        "Mobile": 4
-      },
-      "aliasPath": "integer/4",
-      "scopes": [
-        "GAP"
-      ],
-      "description": ""
-    },
-    {
       "name": "inset.dropdown.divider.padding-y",
       "collection": "Dimension (Component)",
       "layer": "Component",
@@ -345,40 +328,6 @@
       "description": ""
     },
     {
-      "name": "inset.dropdown.header.padding-bottom",
-      "collection": "Dimension (Component)",
-      "layer": "Component",
-      "category": "inset",
-      "domain": "dropdown",
-      "resolvedType": "FLOAT",
-      "values": {
-        "Desktop": 8,
-        "Mobile": 8
-      },
-      "aliasPath": "integer/8",
-      "scopes": [
-        "GAP"
-      ],
-      "description": ""
-    },
-    {
-      "name": "inset.dropdown.header.padding-top",
-      "collection": "Dimension (Component)",
-      "layer": "Component",
-      "category": "inset",
-      "domain": "dropdown",
-      "resolvedType": "FLOAT",
-      "values": {
-        "Desktop": 12,
-        "Mobile": 12
-      },
-      "aliasPath": "integer/12",
-      "scopes": [
-        "GAP"
-      ],
-      "description": ""
-    },
-    {
       "name": "inset.dropdown.header.padding-x",
       "collection": "Dimension (Component)",
       "layer": "Component",
@@ -390,6 +339,23 @@
         "Mobile": 12
       },
       "aliasPath": "integer/12",
+      "scopes": [
+        "GAP"
+      ],
+      "description": ""
+    },
+    {
+      "name": "inset.dropdown.header.padding-y",
+      "collection": "Dimension (Component)",
+      "layer": "Component",
+      "category": "inset",
+      "domain": "dropdown",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 8,
+        "Mobile": 8
+      },
+      "aliasPath": "integer/8",
       "scopes": [
         "GAP"
       ],
@@ -421,9 +387,26 @@
       "resolvedType": "FLOAT",
       "values": {
         "Desktop": 12,
-        "Mobile": 12
+        "Mobile": 16
       },
       "aliasPath": "integer/12",
+      "scopes": [
+        "GAP"
+      ],
+      "description": ""
+    },
+    {
+      "name": "inset.dropdown.padding-all",
+      "collection": "Dimension (Component)",
+      "layer": "Component",
+      "category": "inset",
+      "domain": "dropdown",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 4,
+        "Mobile": 4
+      },
+      "aliasPath": "integer/4",
       "scopes": [
         "GAP"
       ],
@@ -566,7 +549,24 @@
       "description": ""
     },
     {
-      "name": "inset.popover.x",
+      "name": "inset.popover.padding-x",
+      "collection": "Dimension (Component)",
+      "layer": "Component",
+      "category": "inset",
+      "domain": "popover",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 16,
+        "Mobile": 16
+      },
+      "aliasPath": "integer/16",
+      "scopes": [
+        "GAP"
+      ],
+      "description": ""
+    },
+    {
+      "name": "inset.popover.padding-y",
       "collection": "Dimension (Component)",
       "layer": "Component",
       "category": "inset",
@@ -578,22 +578,22 @@
       },
       "aliasPath": "integer/12",
       "scopes": [
-        "ALL_SCOPES"
+        "GAP"
       ],
       "description": ""
     },
     {
-      "name": "inset.popover.y",
+      "name": "stack.dropdown",
       "collection": "Dimension (Component)",
       "layer": "Component",
-      "category": "inset",
-      "domain": "popover",
+      "category": "stack",
+      "domain": "dropdown",
       "resolvedType": "FLOAT",
       "values": {
-        "Desktop": 10,
-        "Mobile": 10
+        "Desktop": 4,
+        "Mobile": 4
       },
-      "aliasPath": "integer/10",
+      "aliasPath": "integer/4",
       "scopes": [
         "ALL_SCOPES"
       ],
