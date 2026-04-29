@@ -1,7 +1,7 @@
 {
-  "syncedAt": "2026-04-23T16:12:36.752Z",
+  "syncedAt": "2026-04-29T14:42:16.336Z",
   "figmaFileKey": "hyamZgAVI1uShJPaAmO7ZP",
-  "figmaFileName": "WIP - UI Foundations",
+  "figmaFileName": "⭐ WIP - UI Foundations",
   "files": {
     "brand-component.json": {
       "collection": "Brand (Component)",
@@ -9,7 +9,7 @@
     },
     "brand-semantic.json": {
       "collection": "Brand (Semantic)",
-      "tokenCount": 163
+      "tokenCount": 171
     },
     "dimension-component.json": {
       "collection": "Dimension (Component)",
@@ -24,5 +24,5 @@
       "tokenCount": 150
     }
   },
-  "totalTokenCount": 417
+  "totalTokenCount": 425
 }
