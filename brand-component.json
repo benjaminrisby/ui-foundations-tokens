@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "syncedAt": "2026-04-29T14:42:16.336Z",
+    "syncedAt": "2026-05-05T13:26:16.035Z",
     "figmaFileKey": "hyamZgAVI1uShJPaAmO7ZP",
     "figmaFileName": "⭐ WIP - UI Foundations",
     "collection": {
@@ -10,6 +10,10 @@
         {
           "id": "2360:0",
           "name": "Base"
+        },
+        {
+          "id": "9843:0",
+          "name": "Accent"
         }
       ],
       "defaultModeId": "2360:0"
