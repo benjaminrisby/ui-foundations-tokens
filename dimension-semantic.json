@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "syncedAt": "2026-04-29T14:42:16.336Z",
+    "syncedAt": "2026-05-05T13:26:16.035Z",
     "figmaFileKey": "hyamZgAVI1uShJPaAmO7ZP",
     "figmaFileName": "⭐ WIP - UI Foundations",
     "collection": {
@@ -18,7 +18,7 @@
       ],
       "defaultModeId": "2:0"
     },
-    "tokenCount": 70
+    "tokenCount": 74
   },
   "tokens": [
     {
@@ -719,6 +719,40 @@
       "description": ""
     },
     {
+      "name": "inset.global.2xl",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "inset",
+      "domain": "global",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 40,
+        "Mobile": 40
+      },
+      "aliasPath": "integer/40",
+      "scopes": [
+        "GAP"
+      ],
+      "description": ""
+    },
+    {
+      "name": "inset.global.3xl",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "inset",
+      "domain": "global",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 56,
+        "Mobile": 56
+      },
+      "aliasPath": "integer/56",
+      "scopes": [
+        "GAP"
+      ],
+      "description": ""
+    },
+    {
       "name": "inset.global.lg",
       "collection": "Dimension (Semantic)",
       "layer": "Semantic",
@@ -727,7 +761,7 @@
       "resolvedType": "FLOAT",
       "values": {
         "Desktop": 20,
-        "Mobile": 16
+        "Mobile": 20
       },
       "aliasPath": "integer/20",
       "scopes": [
@@ -744,7 +778,7 @@
       "resolvedType": "FLOAT",
       "values": {
         "Desktop": 16,
-        "Mobile": 12
+        "Mobile": 16
       },
       "aliasPath": "integer/16",
       "scopes": [
@@ -761,9 +795,26 @@
       "resolvedType": "FLOAT",
       "values": {
         "Desktop": 12,
-        "Mobile": 8
+        "Mobile": 12
       },
       "aliasPath": "integer/12",
+      "scopes": [
+        "GAP"
+      ],
+      "description": ""
+    },
+    {
+      "name": "inset.global.xl",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "inset",
+      "domain": "global",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 32,
+        "Mobile": 32
+      },
+      "aliasPath": "integer/32",
       "scopes": [
         "GAP"
       ],
@@ -970,6 +1021,23 @@
       "aliasPath": "integer/16",
       "scopes": [
         "LINE_HEIGHT"
+      ],
+      "description": ""
+    },
+    {
+      "name": "stack.global.2xl",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "stack",
+      "domain": "global",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 40,
+        "Mobile": 40
+      },
+      "aliasPath": "integer/40",
+      "scopes": [
+        "GAP"
       ],
       "description": ""
     },
