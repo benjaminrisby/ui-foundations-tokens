@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "syncedAt": "2026-04-29T14:42:16.336Z",
+    "syncedAt": "2026-05-05T13:26:16.035Z",
     "figmaFileKey": "hyamZgAVI1uShJPaAmO7ZP",
     "figmaFileName": "⭐ WIP - UI Foundations",
     "collection": {
@@ -18,7 +18,7 @@
       ],
       "defaultModeId": "2369:5"
     },
-    "tokenCount": 171
+    "tokenCount": 178
   },
   "tokens": [
     {
@@ -294,6 +294,57 @@
       "description": ""
     },
     {
+      "name": "bg.nav.active.enabled",
+      "collection": "Brand (Semantic)",
+      "layer": "Semantic",
+      "category": "bg",
+      "domain": "nav",
+      "resolvedType": "COLOR",
+      "values": {
+        "Base": "#000814",
+        "Accent": "#000814"
+      },
+      "aliasPath": "color/gray/900",
+      "scopes": [
+        "FRAME_FILL"
+      ],
+      "description": ""
+    },
+    {
+      "name": "bg.nav.active.hover",
+      "collection": "Brand (Semantic)",
+      "layer": "Semantic",
+      "category": "bg",
+      "domain": "nav",
+      "resolvedType": "COLOR",
+      "values": {
+        "Base": "#000814",
+        "Accent": "#000814"
+      },
+      "aliasPath": "color/gray/900",
+      "scopes": [
+        "FRAME_FILL"
+      ],
+      "description": ""
+    },
+    {
+      "name": "bg.nav.inactive.hover",
+      "collection": "Brand (Semantic)",
+      "layer": "Semantic",
+      "category": "bg",
+      "domain": "nav",
+      "resolvedType": "COLOR",
+      "values": {
+        "Base": "#E6E6E8",
+        "Accent": "#E6E6E8"
+      },
+      "aliasPath": "color/gray/300",
+      "scopes": [
+        "FRAME_FILL"
+      ],
+      "description": ""
+    },
+    {
       "name": "bg.option.selected.enabled",
       "collection": "Brand (Semantic)",
       "layer": "Semantic",
@@ -408,7 +459,24 @@
       },
       "aliasPath": "alpha/black/40",
       "scopes": [
-        "ALL_SCOPES"
+        "FRAME_FILL"
+      ],
+      "description": ""
+    },
+    {
+      "name": "bg.section.base",
+      "collection": "Brand (Semantic)",
+      "layer": "Semantic",
+      "category": "bg",
+      "domain": "section",
+      "resolvedType": "COLOR",
+      "values": {
+        "Base": "#FFFFFF",
+        "Accent": "#000814"
+      },
+      "aliasPath": "color/white",
+      "scopes": [
+        "FRAME_FILL"
       ],
       "description": ""
     },
@@ -506,7 +574,7 @@
       "resolvedType": "COLOR",
       "values": {
         "Base": "#4D525B",
-        "Accent": "#4D525B"
+        "Accent": "#B3B5B9"
       },
       "aliasPath": "color/gray/600",
       "scopes": [
@@ -540,7 +608,7 @@
       "resolvedType": "COLOR",
       "values": {
         "Base": "#4D525B",
-        "Accent": "#4D525B"
+        "Accent": "#62676F"
       },
       "aliasPath": "color/gray/600",
       "scopes": [
@@ -557,7 +625,7 @@
       "resolvedType": "COLOR",
       "values": {
         "Base": "#4D525B",
-        "Accent": "#4D525B"
+        "Accent": "#62676F"
       },
       "aliasPath": "color/gray/600",
       "scopes": [
@@ -693,7 +761,7 @@
       "resolvedType": "COLOR",
       "values": {
         "Base": "#E6E6E8",
-        "Accent": "#E6E6E8"
+        "Accent": "#4D525B"
       },
       "aliasPath": "color/gray/300",
       "scopes": [
@@ -935,7 +1003,7 @@
       },
       "aliasPath": "color/gray/900",
       "scopes": [
-        "ALL_SCOPES"
+        "TEXT_FILL"
       ],
       "description": ""
     },
@@ -1033,7 +1101,7 @@
       "resolvedType": "COLOR",
       "values": {
         "Base": "#E6E6E8",
-        "Accent": "#E6E6E8"
+        "Accent": "#333943"
       },
       "aliasPath": "color/gray/300",
       "scopes": [
@@ -1101,7 +1169,7 @@
       "resolvedType": "COLOR",
       "values": {
         "Base": "#000814",
-        "Accent": "#000814"
+        "Accent": "#FFFFFF"
       },
       "aliasPath": "color/gray/900",
       "scopes": [
@@ -1117,10 +1185,10 @@
       "domain": "action",
       "resolvedType": "COLOR",
       "values": {
-        "Base": "#333943",
-        "Accent": "#333943"
+        "Base": "#19212B",
+        "Accent": "#F6F6F6"
       },
-      "aliasPath": "color/gray/700",
+      "aliasPath": "color/gray/800",
       "scopes": [
         "FRAME_FILL"
       ],
@@ -1134,10 +1202,10 @@
       "domain": "action",
       "resolvedType": "COLOR",
       "values": {
-        "Base": "#333943",
-        "Accent": "#333943"
+        "Base": "#19212B",
+        "Accent": "#F6F6F6"
       },
-      "aliasPath": "color/gray/700",
+      "aliasPath": "color/gray/800",
       "scopes": [
         "FRAME_FILL"
       ],
@@ -1152,7 +1220,7 @@
       "resolvedType": "COLOR",
       "values": {
         "Base": "#FFFFFF",
-        "Accent": "#FFFFFF"
+        "Accent": "#000814"
       },
       "aliasPath": "color/white",
       "scopes": [
@@ -1169,7 +1237,7 @@
       "resolvedType": "COLOR",
       "values": {
         "Base": "#F6F6F6",
-        "Accent": "#F6F6F6"
+        "Accent": "#19212B"
       },
       "aliasPath": "color/gray/100",
       "scopes": [
@@ -1186,7 +1254,7 @@
       "resolvedType": "COLOR",
       "values": {
         "Base": "#F6F6F6",
-        "Accent": "#F6F6F6"
+        "Accent": "#19212B"
       },
       "aliasPath": "color/gray/100",
       "scopes": [
@@ -1467,6 +1535,57 @@
       "description": ""
     },
     {
+      "name": "fill.nav.active.enabled",
+      "collection": "Brand (Semantic)",
+      "layer": "Semantic",
+      "category": "fill",
+      "domain": "nav",
+      "resolvedType": "COLOR",
+      "values": {
+        "Base": "#000814",
+        "Accent": "#FFFFFF"
+      },
+      "aliasPath": "color/gray/900",
+      "scopes": [
+        "FRAME_FILL"
+      ],
+      "description": ""
+    },
+    {
+      "name": "fill.nav.active.hover",
+      "collection": "Brand (Semantic)",
+      "layer": "Semantic",
+      "category": "fill",
+      "domain": "nav",
+      "resolvedType": "COLOR",
+      "values": {
+        "Base": "#000814",
+        "Accent": "#FFFFFF"
+      },
+      "aliasPath": "color/gray/900",
+      "scopes": [
+        "FRAME_FILL"
+      ],
+      "description": ""
+    },
+    {
+      "name": "fill.nav.inactive.hover",
+      "collection": "Brand (Semantic)",
+      "layer": "Semantic",
+      "category": "fill",
+      "domain": "nav",
+      "resolvedType": "COLOR",
+      "values": {
+        "Base": "#4D525B",
+        "Accent": "#4D525B"
+      },
+      "aliasPath": "color/gray/600",
+      "scopes": [
+        "FRAME_FILL"
+      ],
+      "description": ""
+    },
+    {
       "name": "fill.skeleton.base",
       "collection": "Brand (Semantic)",
       "layer": "Semantic",
@@ -1645,11 +1764,11 @@
       "resolvedType": "COLOR",
       "values": {
         "Base": "#000814",
-        "Accent": "#000814"
+        "Accent": "#FFFFFF"
       },
       "aliasPath": "color/gray/900",
       "scopes": [
-        "ALL_SCOPES"
+        "TEXT_FILL"
       ],
       "description": ""
     },
@@ -1764,7 +1883,7 @@
       "resolvedType": "COLOR",
       "values": {
         "Base": "#193FC8",
-        "Accent": "#193FC8"
+        "Accent": "#FDC52F"
       },
       "aliasPath": "color/blue/900",
       "scopes": [
@@ -1781,7 +1900,7 @@
       "resolvedType": "COLOR",
       "values": {
         "Base": "#172554",
-        "Accent": "#172554"
+        "Accent": "#F4AF1A"
       },
       "aliasPath": "color/blue/950",
       "scopes": [
@@ -1798,7 +1917,7 @@
       "resolvedType": "COLOR",
       "values": {
         "Base": "#172554",
-        "Accent": "#172554"
+        "Accent": "#F4AF1A"
       },
       "aliasPath": "color/blue/950",
       "scopes": [
@@ -1866,7 +1985,7 @@
       "resolvedType": "COLOR",
       "values": {
         "Base": "#FFFFFF",
-        "Accent": "#FFFFFF"
+        "Accent": "#000814"
       },
       "aliasPath": "color/white",
       "scopes": [
@@ -1883,7 +2002,7 @@
       "resolvedType": "COLOR",
       "values": {
         "Base": "#FFFFFF",
-        "Accent": "#FFFFFF"
+        "Accent": "#00040B"
       },
       "aliasPath": "color/white",
       "scopes": [
@@ -1900,7 +2019,7 @@
       "resolvedType": "COLOR",
       "values": {
         "Base": "#FFFFFF",
-        "Accent": "#FFFFFF"
+        "Accent": "#00040B"
       },
       "aliasPath": "color/white",
       "scopes": [
@@ -1917,7 +2036,7 @@
       "resolvedType": "COLOR",
       "values": {
         "Base": "#62676F",
-        "Accent": "#62676F"
+        "Accent": "#FFFFFF"
       },
       "aliasPath": "color/gray/500",
       "scopes": [
@@ -1934,7 +2053,7 @@
       "resolvedType": "COLOR",
       "values": {
         "Base": "#4D525B",
-        "Accent": "#4D525B"
+        "Accent": "#F6F6F6"
       },
       "aliasPath": "color/gray/600",
       "scopes": [
@@ -1951,7 +2070,7 @@
       "resolvedType": "COLOR",
       "values": {
         "Base": "#4D525B",
-        "Accent": "#4D525B"
+        "Accent": "#F6F6F6"
       },
       "aliasPath": "color/gray/600",
       "scopes": [
@@ -2274,7 +2393,7 @@
       "resolvedType": "COLOR",
       "values": {
         "Base": "#193FC8",
-        "Accent": "#193FC8"
+        "Accent": "#FDC52F"
       },
       "aliasPath": "color/blue/900",
       "scopes": [
@@ -2291,7 +2410,7 @@
       "resolvedType": "COLOR",
       "values": {
         "Base": "#172554",
-        "Accent": "#172554"
+        "Accent": "#F4AF1A"
       },
       "aliasPath": "color/blue/950",
       "scopes": [
@@ -2308,7 +2427,7 @@
       "resolvedType": "COLOR",
       "values": {
         "Base": "#172554",
-        "Accent": "#172554"
+        "Accent": "#F4AF1A"
       },
       "aliasPath": "color/blue/950",
       "scopes": [
@@ -2376,7 +2495,7 @@
       "resolvedType": "COLOR",
       "values": {
         "Base": "#FFFFFF",
-        "Accent": "#FFFFFF"
+        "Accent": "#000814"
       },
       "aliasPath": "color/white",
       "scopes": [
@@ -2393,7 +2512,7 @@
       "resolvedType": "COLOR",
       "values": {
         "Base": "#FFFFFF",
-        "Accent": "#FFFFFF"
+        "Accent": "#00040B"
       },
       "aliasPath": "color/white",
       "scopes": [
@@ -2410,7 +2529,7 @@
       "resolvedType": "COLOR",
       "values": {
         "Base": "#FFFFFF",
-        "Accent": "#FFFFFF"
+        "Accent": "#00040B"
       },
       "aliasPath": "color/white",
       "scopes": [
@@ -2427,7 +2546,7 @@
       "resolvedType": "COLOR",
       "values": {
         "Base": "#62676F",
-        "Accent": "#62676F"
+        "Accent": "#FFFFFF"
       },
       "aliasPath": "color/gray/500",
       "scopes": [
@@ -2444,7 +2563,7 @@
       "resolvedType": "COLOR",
       "values": {
         "Base": "#4D525B",
-        "Accent": "#4D525B"
+        "Accent": "#F6F6F6"
       },
       "aliasPath": "color/gray/600",
       "scopes": [
@@ -2461,7 +2580,7 @@
       "resolvedType": "COLOR",
       "values": {
         "Base": "#4D525B",
-        "Accent": "#4D525B"
+        "Accent": "#F6F6F6"
       },
       "aliasPath": "color/gray/600",
       "scopes": [
@@ -2529,7 +2648,7 @@
       "resolvedType": "COLOR",
       "values": {
         "Base": "#000814",
-        "Accent": "#000814"
+        "Accent": "#FFFFFF"
       },
       "aliasPath": "color/gray/900",
       "scopes": [
@@ -2648,7 +2767,7 @@
       "resolvedType": "COLOR",
       "values": {
         "Base": "#4D525B",
-        "Accent": "#FFFFFF"
+        "Accent": "#B3B5B9"
       },
       "aliasPath": "color/gray/600",
       "scopes": [
