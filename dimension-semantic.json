@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "syncedAt": "2026-05-05T13:26:16.035Z",
+    "syncedAt": "2026-05-20T16:22:39.866Z",
     "figmaFileKey": "hyamZgAVI1uShJPaAmO7ZP",
-    "figmaFileName": "⭐ WIP - UI Foundations",
+    "figmaFileName": "🔨 WIP - FORGE",
     "collection": {
       "name": "Dimension (Semantic)",
       "layer": "Semantic",
@@ -18,7 +18,7 @@
       ],
       "defaultModeId": "2:0"
     },
-    "tokenCount": 74
+    "tokenCount": 77
   },
   "tokens": [
     {
@@ -63,10 +63,10 @@
       "domain": "global",
       "resolvedType": "FLOAT",
       "values": {
-        "Desktop": 28,
-        "Mobile": 28
+        "Desktop": 24,
+        "Mobile": 24
       },
-      "aliasPath": "integer/28",
+      "aliasPath": "integer/24",
       "scopes": [
         "LINE_HEIGHT"
       ],
@@ -115,7 +115,7 @@
       "resolvedType": "FLOAT",
       "values": {
         "Desktop": 24,
-        "Mobile": 24
+        "Mobile": 20
       },
       "aliasPath": "integer/24",
       "scopes": [
@@ -404,7 +404,7 @@
       "resolvedType": "FLOAT",
       "values": {
         "Desktop": 40,
-        "Mobile": 32
+        "Mobile": 24
       },
       "aliasPath": "integer/40",
       "scopes": [
@@ -438,7 +438,7 @@
       "resolvedType": "FLOAT",
       "values": {
         "Desktop": 48,
-        "Mobile": 40
+        "Mobile": 32
       },
       "aliasPath": "integer/48",
       "scopes": [
@@ -455,7 +455,7 @@
       "resolvedType": "FLOAT",
       "values": {
         "Desktop": 32,
-        "Mobile": 28
+        "Mobile": 20
       },
       "aliasPath": "integer/32",
       "scopes": [
@@ -489,7 +489,7 @@
       "resolvedType": "FLOAT",
       "values": {
         "Desktop": 40,
-        "Mobile": 32
+        "Mobile": 24
       },
       "aliasPath": "integer/40",
       "scopes": [
@@ -506,7 +506,7 @@
       "resolvedType": "FLOAT",
       "values": {
         "Desktop": 24,
-        "Mobile": 24
+        "Mobile": 16
       },
       "aliasPath": "integer/24",
       "scopes": [
@@ -540,7 +540,7 @@
       "resolvedType": "FLOAT",
       "values": {
         "Desktop": 32,
-        "Mobile": 32
+        "Mobile": 20
       },
       "aliasPath": "integer/32",
       "scopes": [
@@ -702,6 +702,23 @@
       "description": ""
     },
     {
+      "name": "inline.global.xl",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "inline",
+      "domain": "global",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 32,
+        "Mobile": 32
+      },
+      "aliasPath": "integer/32",
+      "scopes": [
+        "GAP"
+      ],
+      "description": ""
+    },
+    {
       "name": "inline.global.xs",
       "collection": "Dimension (Semantic)",
       "layer": "Semantic",
@@ -815,6 +832,40 @@
         "Mobile": 32
       },
       "aliasPath": "integer/32",
+      "scopes": [
+        "GAP"
+      ],
+      "description": ""
+    },
+    {
+      "name": "inset.overlay.lg",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "inset",
+      "domain": "overlay",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 20,
+        "Mobile": 20
+      },
+      "aliasPath": "integer/20",
+      "scopes": [
+        "GAP"
+      ],
+      "description": ""
+    },
+    {
+      "name": "inset.overlay.md",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "inset",
+      "domain": "overlay",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 16,
+        "Mobile": 16
+      },
+      "aliasPath": "integer/16",
       "scopes": [
         "GAP"
       ],
@@ -1270,10 +1321,10 @@
       "domain": "global",
       "resolvedType": "FLOAT",
       "values": {
-        "Desktop": 24,
-        "Mobile": 24
+        "Desktop": 20,
+        "Mobile": 20
       },
-      "aliasPath": "integer/24",
+      "aliasPath": "integer/20",
       "scopes": [
         "LINE_HEIGHT"
       ],
