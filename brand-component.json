@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "syncedAt": "2026-05-05T13:26:16.035Z",
+    "syncedAt": "2026-05-20T16:22:39.866Z",
     "figmaFileKey": "hyamZgAVI1uShJPaAmO7ZP",
-    "figmaFileName": "⭐ WIP - UI Foundations",
+    "figmaFileName": "🔨 WIP - FORGE",
     "collection": {
       "name": "Brand (Component)",
       "layer": "Component",
@@ -18,7 +18,42 @@
       ],
       "defaultModeId": "2360:0"
     },
-    "tokenCount": 0
+    "tokenCount": 2
   },
-  "tokens": []
+  "tokens": [
+    {
+      "name": "border.emblem.adornment.base",
+      "collection": "Brand (Component)",
+      "layer": "Component",
+      "category": "border",
+      "domain": "emblem",
+      "resolvedType": "COLOR",
+      "values": {
+        "Base": "#FFFFFF",
+        "Accent": "#000814"
+      },
+      "aliasPath": "color/white",
+      "scopes": [
+        "STROKE_COLOR"
+      ],
+      "description": ""
+    },
+    {
+      "name": "border.emblem.adornment.width",
+      "collection": "Brand (Component)",
+      "layer": "Component",
+      "category": "border",
+      "domain": "emblem",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Base": 2,
+        "Accent": 2
+      },
+      "aliasPath": "integer/2",
+      "scopes": [
+        "STROKE_FLOAT"
+      ],
+      "description": ""
+    }
+  ]
 }
