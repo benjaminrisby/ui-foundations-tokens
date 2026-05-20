@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "syncedAt": "2026-05-05T13:26:16.035Z",
+    "syncedAt": "2026-05-20T16:22:39.866Z",
     "figmaFileKey": "hyamZgAVI1uShJPaAmO7ZP",
-    "figmaFileName": "⭐ WIP - UI Foundations",
+    "figmaFileName": "🔨 WIP - FORGE",
     "collection": {
       "name": "Dimension (Component)",
       "layer": "Component",
@@ -336,7 +336,7 @@
       "resolvedType": "FLOAT",
       "values": {
         "Desktop": 12,
-        "Mobile": 12
+        "Mobile": 16
       },
       "aliasPath": "integer/12",
       "scopes": [
@@ -370,7 +370,7 @@
       "resolvedType": "FLOAT",
       "values": {
         "Desktop": 12,
-        "Mobile": 12
+        "Mobile": 16
       },
       "aliasPath": "integer/12",
       "scopes": [
@@ -583,7 +583,7 @@
       "description": ""
     },
     {
-      "name": "inset.tabs.tab.padding-y",
+      "name": "inset.tabs.tab.padding-all",
       "collection": "Dimension (Component)",
       "layer": "Component",
       "category": "inset",
