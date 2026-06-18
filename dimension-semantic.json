@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "syncedAt": "2026-05-20T16:22:39.866Z",
+    "syncedAt": "2026-06-18T08:48:05.018Z",
     "figmaFileKey": "hyamZgAVI1uShJPaAmO7ZP",
-    "figmaFileName": "🔨 WIP - FORGE",
+    "figmaFileName": "🎨 WIP - FORGE",
     "collection": {
       "name": "Dimension (Semantic)",
       "layer": "Semantic",
@@ -18,7 +18,7 @@
       ],
       "defaultModeId": "2:0"
     },
-    "tokenCount": 77
+    "tokenCount": 79
   },
   "tokens": [
     {
@@ -872,6 +872,40 @@
       "description": ""
     },
     {
+      "name": "inset.overlay.xl",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "inset",
+      "domain": "overlay",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 32,
+        "Mobile": 32
+      },
+      "aliasPath": "integer/32",
+      "scopes": [
+        "GAP"
+      ],
+      "description": ""
+    },
+    {
+      "name": "inset.row.md",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "inset",
+      "domain": "row",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 12,
+        "Mobile": 12
+      },
+      "aliasPath": "integer/12",
+      "scopes": [
+        "GAP"
+      ],
+      "description": ""
+    },
+    {
       "name": "label.global.lg.font-size",
       "collection": "Dimension (Semantic)",
       "layer": "Semantic",
@@ -1237,7 +1271,7 @@
       "resolvedType": "FLOAT",
       "values": {
         "Desktop": 16,
-        "Mobile": 16
+        "Mobile": 14
       },
       "aliasPath": "integer/16",
       "scopes": [
