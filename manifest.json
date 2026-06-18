@@ -1,28 +1,28 @@
 {
-  "syncedAt": "2026-05-20T16:22:39.866Z",
+  "syncedAt": "2026-06-18T08:48:05.018Z",
   "figmaFileKey": "hyamZgAVI1uShJPaAmO7ZP",
-  "figmaFileName": "🔨 WIP - FORGE",
+  "figmaFileName": "🎨 WIP - FORGE",
   "files": {
     "brand-component.json": {
       "collection": "Brand (Component)",
-      "tokenCount": 2
+      "tokenCount": 1
     },
     "brand-semantic.json": {
       "collection": "Brand (Semantic)",
-      "tokenCount": 183
+      "tokenCount": 186
     },
     "dimension-component.json": {
       "collection": "Dimension (Component)",
-      "tokenCount": 35
+      "tokenCount": 39
     },
     "dimension-semantic.json": {
       "collection": "Dimension (Semantic)",
-      "tokenCount": 77
+      "tokenCount": 79
     },
     "primitives.json": {
       "collection": "Primitives",
       "tokenCount": 151
     }
   },
-  "totalTokenCount": 448
+  "totalTokenCount": 456
 }
