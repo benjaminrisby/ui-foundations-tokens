@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "syncedAt": "2026-05-20T16:22:39.866Z",
+    "syncedAt": "2026-06-18T08:48:05.018Z",
     "figmaFileKey": "hyamZgAVI1uShJPaAmO7ZP",
-    "figmaFileName": "🔨 WIP - FORGE",
+    "figmaFileName": "🎨 WIP - FORGE",
     "collection": {
       "name": "Brand (Semantic)",
       "layer": "Semantic",
@@ -18,7 +18,7 @@
       ],
       "defaultModeId": "2369:5"
     },
-    "tokenCount": 183
+    "tokenCount": 186
   },
   "tokens": [
     {
@@ -98,7 +98,7 @@
       "resolvedType": "COLOR",
       "values": {
         "Base": "#FFFFFF",
-        "Accent": "#FFFFFF"
+        "Accent": "#19212B"
       },
       "aliasPath": "color/white",
       "scopes": [
@@ -115,7 +115,7 @@
       "resolvedType": "COLOR",
       "values": {
         "Base": "#F6F6F6",
-        "Accent": "#F6F6F6"
+        "Accent": "#19212B"
       },
       "aliasPath": "color/gray/100",
       "scopes": [
@@ -438,9 +438,43 @@
       "resolvedType": "COLOR",
       "values": {
         "Base": "#FCFCFC",
-        "Accent": "#FCFCFC"
+        "Accent": "#000814"
       },
       "aliasPath": "color/gray/50",
+      "scopes": [
+        "FRAME_FILL"
+      ],
+      "description": ""
+    },
+    {
+      "name": "bg.row.focus",
+      "collection": "Brand (Semantic)",
+      "layer": "Semantic",
+      "category": "bg",
+      "domain": "row",
+      "resolvedType": "COLOR",
+      "values": {
+        "Base": "#F6F6F6",
+        "Accent": "#F6F6F6"
+      },
+      "aliasPath": "color/gray/100",
+      "scopes": [
+        "FRAME_FILL"
+      ],
+      "description": ""
+    },
+    {
+      "name": "bg.row.hover",
+      "collection": "Brand (Semantic)",
+      "layer": "Semantic",
+      "category": "bg",
+      "domain": "row",
+      "resolvedType": "COLOR",
+      "values": {
+        "Base": "#F6F6F6",
+        "Accent": "#F6F6F6"
+      },
+      "aliasPath": "color/gray/100",
       "scopes": [
         "FRAME_FILL"
       ],
@@ -489,7 +523,7 @@
       "resolvedType": "COLOR",
       "values": {
         "Base": "#000814",
-        "Accent": "#000814"
+        "Accent": "#FFFFFF"
       },
       "aliasPath": "color/gray/900",
       "scopes": [
@@ -693,7 +727,7 @@
       "resolvedType": "COLOR",
       "values": {
         "Base": "#E6E6E8",
-        "Accent": "#E6E6E8"
+        "Accent": "#4D525B"
       },
       "aliasPath": "color/gray/300",
       "scopes": [
@@ -758,6 +792,23 @@
       "layer": "Semantic",
       "category": "border",
       "domain": "divider",
+      "resolvedType": "COLOR",
+      "values": {
+        "Base": "#E6E6E8",
+        "Accent": "#4D525B"
+      },
+      "aliasPath": "color/gray/300",
+      "scopes": [
+        "STROKE_COLOR"
+      ],
+      "description": ""
+    },
+    {
+      "name": "border.global.base",
+      "collection": "Brand (Semantic)",
+      "layer": "Semantic",
+      "category": "border",
+      "domain": "global",
       "resolvedType": "COLOR",
       "values": {
         "Base": "#E6E6E8",
@@ -999,7 +1050,7 @@
       "resolvedType": "COLOR",
       "values": {
         "Base": "#000814",
-        "Accent": "#000814"
+        "Accent": "#FFFFFF"
       },
       "aliasPath": "color/gray/900",
       "scopes": [
@@ -2257,7 +2308,7 @@
       "resolvedType": "COLOR",
       "values": {
         "Base": "#F4AF1A",
-        "Accent": "#FFFFFF"
+        "Accent": "#F4AF1A"
       },
       "aliasPath": "color/yellow/500",
       "scopes": [
@@ -2291,7 +2342,7 @@
       "resolvedType": "COLOR",
       "values": {
         "Base": "#000814",
-        "Accent": "#000814"
+        "Accent": "#FFFFFF"
       },
       "aliasPath": "color/gray/900",
       "scopes": [
@@ -3073,7 +3124,7 @@
       "resolvedType": "COLOR",
       "values": {
         "Base": "#000814",
-        "Accent": "#000814"
+        "Accent": "#FFFFFF"
       },
       "aliasPath": "color/gray/900",
       "scopes": [
