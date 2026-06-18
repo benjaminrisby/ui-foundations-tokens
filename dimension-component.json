@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "syncedAt": "2026-05-20T16:22:39.866Z",
+    "syncedAt": "2026-06-18T08:48:05.018Z",
     "figmaFileKey": "hyamZgAVI1uShJPaAmO7ZP",
-    "figmaFileName": "🔨 WIP - FORGE",
+    "figmaFileName": "🎨 WIP - FORGE",
     "collection": {
       "name": "Dimension (Component)",
       "layer": "Component",
@@ -18,9 +18,43 @@
       ],
       "defaultModeId": "2046:3"
     },
-    "tokenCount": 35
+    "tokenCount": 39
   },
   "tokens": [
+    {
+      "name": "box.emblem.adornment.lg",
+      "collection": "Dimension (Component)",
+      "layer": "Component",
+      "category": "box",
+      "domain": "emblem",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 16,
+        "Mobile": 16
+      },
+      "aliasPath": "integer/16",
+      "scopes": [
+        "WIDTH_HEIGHT"
+      ],
+      "description": ""
+    },
+    {
+      "name": "box.emblem.adornment.sm",
+      "collection": "Dimension (Component)",
+      "layer": "Component",
+      "category": "box",
+      "domain": "emblem",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 12,
+        "Mobile": 12
+      },
+      "aliasPath": "integer/12",
+      "scopes": [
+        "WIDTH_HEIGHT"
+      ],
+      "description": ""
+    },
     {
       "name": "box.emblem.lg",
       "collection": "Dimension (Component)",
@@ -101,6 +135,40 @@
         "Mobile": 24
       },
       "aliasPath": "integer/24",
+      "scopes": [
+        "WIDTH_HEIGHT"
+      ],
+      "description": ""
+    },
+    {
+      "name": "icon.emblem.adornment.lg",
+      "collection": "Dimension (Component)",
+      "layer": "Component",
+      "category": "icon",
+      "domain": "emblem",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 10,
+        "Mobile": 10
+      },
+      "aliasPath": "integer/10",
+      "scopes": [
+        "WIDTH_HEIGHT"
+      ],
+      "description": ""
+    },
+    {
+      "name": "icon.emblem.adornment.sm",
+      "collection": "Dimension (Component)",
+      "layer": "Component",
+      "category": "icon",
+      "domain": "emblem",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 8,
+        "Mobile": 8
+      },
+      "aliasPath": "integer/8",
       "scopes": [
         "WIDTH_HEIGHT"
       ],
