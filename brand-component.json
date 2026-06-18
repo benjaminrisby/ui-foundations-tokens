@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "syncedAt": "2026-05-20T16:22:39.866Z",
+    "syncedAt": "2026-06-18T08:48:05.018Z",
     "figmaFileKey": "hyamZgAVI1uShJPaAmO7ZP",
-    "figmaFileName": "🔨 WIP - FORGE",
+    "figmaFileName": "🎨 WIP - FORGE",
     "collection": {
       "name": "Brand (Component)",
       "layer": "Component",
@@ -18,7 +18,7 @@
       ],
       "defaultModeId": "2360:0"
     },
-    "tokenCount": 2
+    "tokenCount": 1
   },
   "tokens": [
     {
@@ -35,23 +35,6 @@
       "aliasPath": "color/white",
       "scopes": [
         "STROKE_COLOR"
-      ],
-      "description": ""
-    },
-    {
-      "name": "border.emblem.adornment.width",
-      "collection": "Brand (Component)",
-      "layer": "Component",
-      "category": "border",
-      "domain": "emblem",
-      "resolvedType": "FLOAT",
-      "values": {
-        "Base": 2,
-        "Accent": 2
-      },
-      "aliasPath": "integer/2",
-      "scopes": [
-        "STROKE_FLOAT"
       ],
       "description": ""
     }
