@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "syncedAt": "2026-06-18T08:48:05.018Z",
+    "syncedAt": "2026-07-10T18:28:43.752Z",
     "figmaFileKey": "hyamZgAVI1uShJPaAmO7ZP",
     "figmaFileName": "🎨 WIP - FORGE",
     "collection": {
@@ -18,7 +18,7 @@
       ],
       "defaultModeId": "2369:5"
     },
-    "tokenCount": 186
+    "tokenCount": 191
   },
   "tokens": [
     {
@@ -1620,6 +1620,23 @@
       "description": ""
     },
     {
+      "name": "fill.input.dragover",
+      "collection": "Brand (Semantic)",
+      "layer": "Semantic",
+      "category": "fill",
+      "domain": "input",
+      "resolvedType": "COLOR",
+      "values": {
+        "Base": "#F0F3FF",
+        "Accent": "#F0F3FF"
+      },
+      "aliasPath": "",
+      "scopes": [
+        "FRAME_FILL"
+      ],
+      "description": ""
+    },
+    {
       "name": "fill.input.enabled",
       "collection": "Brand (Semantic)",
       "layer": "Semantic",
@@ -2351,7 +2368,7 @@
       "description": ""
     },
     {
-      "name": "icon.global.destructive",
+      "name": "icon.global.destructive.enabled",
       "collection": "Brand (Semantic)",
       "layer": "Semantic",
       "category": "icon",
@@ -2362,6 +2379,40 @@
         "Accent": "#C11E08"
       },
       "aliasPath": "color/red/900",
+      "scopes": [
+        "SHAPE_FILL"
+      ],
+      "description": ""
+    },
+    {
+      "name": "icon.global.destructive.focus",
+      "collection": "Brand (Semantic)",
+      "layer": "Semantic",
+      "category": "icon",
+      "domain": "global",
+      "resolvedType": "COLOR",
+      "values": {
+        "Base": "#9B1200",
+        "Accent": "#9B1200"
+      },
+      "aliasPath": "color/red/950",
+      "scopes": [
+        "SHAPE_FILL"
+      ],
+      "description": ""
+    },
+    {
+      "name": "icon.global.destructive.hover",
+      "collection": "Brand (Semantic)",
+      "layer": "Semantic",
+      "category": "icon",
+      "domain": "global",
+      "resolvedType": "COLOR",
+      "values": {
+        "Base": "#9B1200",
+        "Accent": "#9B1200"
+      },
+      "aliasPath": "color/red/950",
       "scopes": [
         "SHAPE_FILL"
       ],
@@ -2793,7 +2844,7 @@
       "description": ""
     },
     {
-      "name": "label.global.destructive",
+      "name": "label.global.destructive.enabled",
       "collection": "Brand (Semantic)",
       "layer": "Semantic",
       "category": "label",
@@ -2804,6 +2855,40 @@
         "Accent": "#C11E08"
       },
       "aliasPath": "color/red/900",
+      "scopes": [
+        "TEXT_FILL"
+      ],
+      "description": ""
+    },
+    {
+      "name": "label.global.destructive.focus",
+      "collection": "Brand (Semantic)",
+      "layer": "Semantic",
+      "category": "label",
+      "domain": "global",
+      "resolvedType": "COLOR",
+      "values": {
+        "Base": "#9B1200",
+        "Accent": "#9B1200"
+      },
+      "aliasPath": "color/red/950",
+      "scopes": [
+        "TEXT_FILL"
+      ],
+      "description": ""
+    },
+    {
+      "name": "label.global.destructive.hover",
+      "collection": "Brand (Semantic)",
+      "layer": "Semantic",
+      "category": "label",
+      "domain": "global",
+      "resolvedType": "COLOR",
+      "values": {
+        "Base": "#9B1200",
+        "Accent": "#9B1200"
+      },
+      "aliasPath": "color/red/950",
       "scopes": [
         "TEXT_FILL"
       ],
