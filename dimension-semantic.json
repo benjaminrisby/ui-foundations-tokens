@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "syncedAt": "2026-06-18T08:48:05.018Z",
+    "syncedAt": "2026-07-10T18:28:43.752Z",
     "figmaFileKey": "hyamZgAVI1uShJPaAmO7ZP",
     "figmaFileName": "🎨 WIP - FORGE",
     "collection": {
@@ -18,7 +18,7 @@
       ],
       "defaultModeId": "2:0"
     },
-    "tokenCount": 79
+    "tokenCount": 80
   },
   "tokens": [
     {
@@ -115,7 +115,7 @@
       "resolvedType": "FLOAT",
       "values": {
         "Desktop": 24,
-        "Mobile": 20
+        "Mobile": 24
       },
       "aliasPath": "integer/24",
       "scopes": [
@@ -404,7 +404,7 @@
       "resolvedType": "FLOAT",
       "values": {
         "Desktop": 40,
-        "Mobile": 24
+        "Mobile": 28
       },
       "aliasPath": "integer/40",
       "scopes": [
@@ -455,7 +455,7 @@
       "resolvedType": "FLOAT",
       "values": {
         "Desktop": 32,
-        "Mobile": 20
+        "Mobile": 24
       },
       "aliasPath": "integer/32",
       "scopes": [
@@ -489,7 +489,7 @@
       "resolvedType": "FLOAT",
       "values": {
         "Desktop": 40,
-        "Mobile": 24
+        "Mobile": 28
       },
       "aliasPath": "integer/40",
       "scopes": [
@@ -506,7 +506,7 @@
       "resolvedType": "FLOAT",
       "values": {
         "Desktop": 24,
-        "Mobile": 16
+        "Mobile": 20
       },
       "aliasPath": "integer/24",
       "scopes": [
@@ -540,7 +540,7 @@
       "resolvedType": "FLOAT",
       "values": {
         "Desktop": 32,
-        "Mobile": 20
+        "Mobile": 24
       },
       "aliasPath": "integer/32",
       "scopes": [
@@ -900,6 +900,23 @@
         "Mobile": 12
       },
       "aliasPath": "integer/12",
+      "scopes": [
+        "GAP"
+      ],
+      "description": ""
+    },
+    {
+      "name": "inset.row.sm",
+      "collection": "Dimension (Semantic)",
+      "layer": "Semantic",
+      "category": "inset",
+      "domain": "row",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 8,
+        "Mobile": 12
+      },
+      "aliasPath": "integer/8",
       "scopes": [
         "GAP"
       ],
