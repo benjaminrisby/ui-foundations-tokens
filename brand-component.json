@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "syncedAt": "2026-07-10T18:28:43.752Z",
+    "syncedAt": "2026-07-17T18:12:11.199Z",
     "figmaFileKey": "hyamZgAVI1uShJPaAmO7ZP",
     "figmaFileName": "🎨 WIP - FORGE",
     "collection": {
@@ -18,9 +18,43 @@
       ],
       "defaultModeId": "2360:0"
     },
-    "tokenCount": 1
+    "tokenCount": 5
   },
   "tokens": [
+    {
+      "name": "border.chip.enabled",
+      "collection": "Brand (Component)",
+      "layer": "Component",
+      "category": "border",
+      "domain": "chip",
+      "resolvedType": "COLOR",
+      "values": {
+        "Base": "#62676F",
+        "Accent": "#62676F"
+      },
+      "aliasPath": "color/gray/500",
+      "scopes": [
+        "STROKE_COLOR"
+      ],
+      "description": "Chip border, resting. Base gray/500 (WCAG 1.4.11 pass). Accent gray/500 (best-guess)."
+    },
+    {
+      "name": "border.chip.hover",
+      "collection": "Brand (Component)",
+      "layer": "Component",
+      "category": "border",
+      "domain": "chip",
+      "resolvedType": "COLOR",
+      "values": {
+        "Base": "#4D525B",
+        "Accent": "#4D525B"
+      },
+      "aliasPath": "color/gray/600",
+      "scopes": [
+        "STROKE_COLOR"
+      ],
+      "description": "Chip border, hover. Base gray/600."
+    },
     {
       "name": "border.emblem.adornment.base",
       "collection": "Brand (Component)",
@@ -37,6 +71,42 @@
         "STROKE_COLOR"
       ],
       "description": ""
+    },
+    {
+      "name": "fill.chip.enabled",
+      "collection": "Brand (Component)",
+      "layer": "Component",
+      "category": "fill",
+      "domain": "chip",
+      "resolvedType": "COLOR",
+      "values": {
+        "Base": "#FFFFFF",
+        "Accent": "#000814"
+      },
+      "aliasPath": "color/white",
+      "scopes": [
+        "FRAME_FILL",
+        "SHAPE_FILL"
+      ],
+      "description": "Chip surface fill, resting (outlined route). Base white; Accent gray/900 (best-guess, dark review)."
+    },
+    {
+      "name": "fill.chip.hover",
+      "collection": "Brand (Component)",
+      "layer": "Component",
+      "category": "fill",
+      "domain": "chip",
+      "resolvedType": "COLOR",
+      "values": {
+        "Base": "#F6F6F6",
+        "Accent": "#19212B"
+      },
+      "aliasPath": "color/gray/100",
+      "scopes": [
+        "FRAME_FILL",
+        "SHAPE_FILL"
+      ],
+      "description": "Chip surface fill, hover (outlined route). Base gray/100; Accent gray/800 (best-guess)."
     }
   ]
 }
