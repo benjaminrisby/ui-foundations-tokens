@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "syncedAt": "2026-07-10T18:28:43.752Z",
+    "syncedAt": "2026-07-17T18:12:11.199Z",
     "figmaFileKey": "hyamZgAVI1uShJPaAmO7ZP",
     "figmaFileName": "🎨 WIP - FORGE",
     "collection": {
@@ -18,7 +18,7 @@
       ],
       "defaultModeId": "2046:3"
     },
-    "tokenCount": 39
+    "tokenCount": 42
   },
   "tokens": [
     {
@@ -379,6 +379,23 @@
       "description": ""
     },
     {
+      "name": "inset.chip.padding-all",
+      "collection": "Dimension (Component)",
+      "layer": "Component",
+      "category": "inset",
+      "domain": "chip",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 8,
+        "Mobile": 8
+      },
+      "aliasPath": "integer/8",
+      "scopes": [
+        "GAP"
+      ],
+      "description": "Chip internal padding, all sides (8). Symmetric, matches tabs.tab.padding-all."
+    },
+    {
       "name": "inset.dropdown.divider.padding-y",
       "collection": "Dimension (Component)",
       "layer": "Component",
@@ -656,6 +673,40 @@
       "layer": "Component",
       "category": "inset",
       "domain": "tabs",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 12,
+        "Mobile": 12
+      },
+      "aliasPath": "integer/12",
+      "scopes": [
+        "GAP"
+      ],
+      "description": ""
+    },
+    {
+      "name": "inset.toggleButton.padding-x",
+      "collection": "Dimension (Component)",
+      "layer": "Component",
+      "category": "inset",
+      "domain": "toggleButton",
+      "resolvedType": "FLOAT",
+      "values": {
+        "Desktop": 8,
+        "Mobile": 8
+      },
+      "aliasPath": "integer/8",
+      "scopes": [
+        "GAP"
+      ],
+      "description": ""
+    },
+    {
+      "name": "inset.toggleButton.padding-y",
+      "collection": "Dimension (Component)",
+      "layer": "Component",
+      "category": "inset",
+      "domain": "toggleButton",
       "resolvedType": "FLOAT",
       "values": {
         "Desktop": 12,
