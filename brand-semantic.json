@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "syncedAt": "2026-07-10T18:28:43.752Z",
+    "syncedAt": "2026-07-17T18:12:11.199Z",
     "figmaFileKey": "hyamZgAVI1uShJPaAmO7ZP",
     "figmaFileName": "🎨 WIP - FORGE",
     "collection": {
@@ -18,7 +18,7 @@
       ],
       "defaultModeId": "2369:5"
     },
-    "tokenCount": 191
+    "tokenCount": 209
   },
   "tokens": [
     {
@@ -1161,6 +1161,108 @@
       "description": ""
     },
     {
+      "name": "fill.action.ghost.active.enabled",
+      "collection": "Brand (Semantic)",
+      "layer": "Semantic",
+      "category": "fill",
+      "domain": "action",
+      "resolvedType": "COLOR",
+      "values": {
+        "Base": "#FFFFFF00",
+        "Accent": "#00000000"
+      },
+      "aliasPath": "alpha/white/0",
+      "scopes": [
+        "FRAME_FILL"
+      ],
+      "description": ""
+    },
+    {
+      "name": "fill.action.ghost.active.focus",
+      "collection": "Brand (Semantic)",
+      "layer": "Semantic",
+      "category": "fill",
+      "domain": "action",
+      "resolvedType": "COLOR",
+      "values": {
+        "Base": "#F6F6F6",
+        "Accent": "#19212B"
+      },
+      "aliasPath": "color/gray/100",
+      "scopes": [
+        "FRAME_FILL"
+      ],
+      "description": ""
+    },
+    {
+      "name": "fill.action.ghost.active.hover",
+      "collection": "Brand (Semantic)",
+      "layer": "Semantic",
+      "category": "fill",
+      "domain": "action",
+      "resolvedType": "COLOR",
+      "values": {
+        "Base": "#F6F6F6",
+        "Accent": "#19212B"
+      },
+      "aliasPath": "color/gray/100",
+      "scopes": [
+        "FRAME_FILL"
+      ],
+      "description": ""
+    },
+    {
+      "name": "fill.action.ghost.inactive.enabled",
+      "collection": "Brand (Semantic)",
+      "layer": "Semantic",
+      "category": "fill",
+      "domain": "action",
+      "resolvedType": "COLOR",
+      "values": {
+        "Base": "#FFFFFF00",
+        "Accent": "#00000000"
+      },
+      "aliasPath": "alpha/white/0",
+      "scopes": [
+        "FRAME_FILL"
+      ],
+      "description": ""
+    },
+    {
+      "name": "fill.action.ghost.inactive.focus",
+      "collection": "Brand (Semantic)",
+      "layer": "Semantic",
+      "category": "fill",
+      "domain": "action",
+      "resolvedType": "COLOR",
+      "values": {
+        "Base": "#F6F6F6",
+        "Accent": "#19212B"
+      },
+      "aliasPath": "color/gray/100",
+      "scopes": [
+        "FRAME_FILL"
+      ],
+      "description": ""
+    },
+    {
+      "name": "fill.action.ghost.inactive.hover",
+      "collection": "Brand (Semantic)",
+      "layer": "Semantic",
+      "category": "fill",
+      "domain": "action",
+      "resolvedType": "COLOR",
+      "values": {
+        "Base": "#F6F6F6",
+        "Accent": "#19212B"
+      },
+      "aliasPath": "color/gray/100",
+      "scopes": [
+        "FRAME_FILL"
+      ],
+      "description": ""
+    },
+    {
       "name": "fill.action.plain.enabled",
       "collection": "Brand (Semantic)",
       "layer": "Semantic",
@@ -2011,6 +2113,108 @@
       "description": ""
     },
     {
+      "name": "icon.action.ghost.active.enabled",
+      "collection": "Brand (Semantic)",
+      "layer": "Semantic",
+      "category": "icon",
+      "domain": "action",
+      "resolvedType": "COLOR",
+      "values": {
+        "Base": "#3659D6",
+        "Accent": "#FDC52F"
+      },
+      "aliasPath": "color/blue/700",
+      "scopes": [
+        "SHAPE_FILL"
+      ],
+      "description": ""
+    },
+    {
+      "name": "icon.action.ghost.active.focus",
+      "collection": "Brand (Semantic)",
+      "layer": "Semantic",
+      "category": "icon",
+      "domain": "action",
+      "resolvedType": "COLOR",
+      "values": {
+        "Base": "#284DCF",
+        "Accent": "#F4AF1A"
+      },
+      "aliasPath": "color/blue/800",
+      "scopes": [
+        "SHAPE_FILL"
+      ],
+      "description": ""
+    },
+    {
+      "name": "icon.action.ghost.active.hover",
+      "collection": "Brand (Semantic)",
+      "layer": "Semantic",
+      "category": "icon",
+      "domain": "action",
+      "resolvedType": "COLOR",
+      "values": {
+        "Base": "#284DCF",
+        "Accent": "#F4AF1A"
+      },
+      "aliasPath": "color/blue/800",
+      "scopes": [
+        "SHAPE_FILL"
+      ],
+      "description": ""
+    },
+    {
+      "name": "icon.action.ghost.inactive.enabled",
+      "collection": "Brand (Semantic)",
+      "layer": "Semantic",
+      "category": "icon",
+      "domain": "action",
+      "resolvedType": "COLOR",
+      "values": {
+        "Base": "#4D525B",
+        "Accent": "#FFFFFF"
+      },
+      "aliasPath": "color/gray/600",
+      "scopes": [
+        "SHAPE_FILL"
+      ],
+      "description": ""
+    },
+    {
+      "name": "icon.action.ghost.inactive.focus",
+      "collection": "Brand (Semantic)",
+      "layer": "Semantic",
+      "category": "icon",
+      "domain": "action",
+      "resolvedType": "COLOR",
+      "values": {
+        "Base": "#333943",
+        "Accent": "#FFFFFF"
+      },
+      "aliasPath": "color/gray/700",
+      "scopes": [
+        "SHAPE_FILL"
+      ],
+      "description": ""
+    },
+    {
+      "name": "icon.action.ghost.inactive.hover",
+      "collection": "Brand (Semantic)",
+      "layer": "Semantic",
+      "category": "icon",
+      "domain": "action",
+      "resolvedType": "COLOR",
+      "values": {
+        "Base": "#333943",
+        "Accent": "#FFFFFF"
+      },
+      "aliasPath": "color/gray/700",
+      "scopes": [
+        "SHAPE_FILL"
+      ],
+      "description": ""
+    },
+    {
       "name": "icon.action.plain.enabled",
       "collection": "Brand (Semantic)",
       "layer": "Semantic",
@@ -2549,6 +2753,108 @@
         "Accent": "#FFFFFF"
       },
       "aliasPath": "color/white",
+      "scopes": [
+        "TEXT_FILL"
+      ],
+      "description": ""
+    },
+    {
+      "name": "label.action.ghost.active.enabled",
+      "collection": "Brand (Semantic)",
+      "layer": "Semantic",
+      "category": "label",
+      "domain": "action",
+      "resolvedType": "COLOR",
+      "values": {
+        "Base": "#3659D6",
+        "Accent": "#FDC52F"
+      },
+      "aliasPath": "color/blue/700",
+      "scopes": [
+        "TEXT_FILL"
+      ],
+      "description": ""
+    },
+    {
+      "name": "label.action.ghost.active.focus",
+      "collection": "Brand (Semantic)",
+      "layer": "Semantic",
+      "category": "label",
+      "domain": "action",
+      "resolvedType": "COLOR",
+      "values": {
+        "Base": "#284DCF",
+        "Accent": "#F4AF1A"
+      },
+      "aliasPath": "color/blue/800",
+      "scopes": [
+        "TEXT_FILL"
+      ],
+      "description": ""
+    },
+    {
+      "name": "label.action.ghost.active.hover",
+      "collection": "Brand (Semantic)",
+      "layer": "Semantic",
+      "category": "label",
+      "domain": "action",
+      "resolvedType": "COLOR",
+      "values": {
+        "Base": "#284DCF",
+        "Accent": "#F4AF1A"
+      },
+      "aliasPath": "color/blue/800",
+      "scopes": [
+        "TEXT_FILL"
+      ],
+      "description": ""
+    },
+    {
+      "name": "label.action.ghost.inactive.enabled",
+      "collection": "Brand (Semantic)",
+      "layer": "Semantic",
+      "category": "label",
+      "domain": "action",
+      "resolvedType": "COLOR",
+      "values": {
+        "Base": "#000814",
+        "Accent": "#FFFFFF"
+      },
+      "aliasPath": "color/gray/900",
+      "scopes": [
+        "TEXT_FILL"
+      ],
+      "description": ""
+    },
+    {
+      "name": "label.action.ghost.inactive.focus",
+      "collection": "Brand (Semantic)",
+      "layer": "Semantic",
+      "category": "label",
+      "domain": "action",
+      "resolvedType": "COLOR",
+      "values": {
+        "Base": "#000814",
+        "Accent": "#FFFFFF"
+      },
+      "aliasPath": "color/gray/900",
+      "scopes": [
+        "TEXT_FILL"
+      ],
+      "description": ""
+    },
+    {
+      "name": "label.action.ghost.inactive.hover",
+      "collection": "Brand (Semantic)",
+      "layer": "Semantic",
+      "category": "label",
+      "domain": "action",
+      "resolvedType": "COLOR",
+      "values": {
+        "Base": "#000814",
+        "Accent": "#FFFFFF"
+      },
+      "aliasPath": "color/gray/900",
       "scopes": [
         "TEXT_FILL"
       ],
